@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Sleep_Disorder_Type,AHI_Score,SaO2_Level,OCR_Extracted_Text,Diagnosis_Confirmed
+P0001,54,Female,Restless Leg Syndrome,44.11,77.59,Patient P0001 diagnosed with Restless Leg Syndrome.,1
+P0002,17,Female,Restless Leg Syndrome,33.55,76.22,Patient P0002 diagnosed with Restless Leg Syndrome.,1
+P0003,74,Male,Insomnia,12.91,89.53,Patient P0003 diagnosed with Insomnia.,1
+P0004,63,Male,Restless Leg Syndrome,33.73,85.65,Patient P0004 diagnosed with Restless Leg Syndrome.,1
+P0005,23,Female,Insomnia,14.84,88.7,Patient P0005 diagnosed with Insomnia.,1
+P0006,77,Male,Insomnia,35.92,88.03,Patient P0006 diagnosed with Insomnia.,1
+P0007,77,Male,Restless Leg Syndrome,47.7,83.76,Patient P0007 diagnosed with Restless Leg Syndrome.,1
+P0008,26,Male,Narcolepsy,36.07,91.94,Patient P0008 diagnosed with Narcolepsy.,1
+P0009,5,Female,Insomnia,43.14,93.96,Patient P0009 diagnosed with Insomnia.,1
+P0010,24,Male,Obstructive Sleep Apnea,0.11,75.37,Patient P0010 diagnosed with Obstructive Sleep Apnea.,1
+P0011,55,Female,Obstructive Sleep Apnea,35.88,80.18,Patient P0011 diagnosed with Obstructive Sleep Apnea.,1
+P0012,4,Male,Obstructive Sleep Apnea,41.48,92.83,Patient P0012 diagnosed with Obstructive Sleep Apnea.,1
+P0013,32,Female,Restless Leg Syndrome,2.03,84.67,Patient P0013 diagnosed with Restless Leg Syndrome.,1
+P0014,40,Female,Insomnia,43.58,91.56,Patient P0014 diagnosed with Insomnia.,1
+P0015,4,Male,Insomnia,12.83,83.67,Patient P0015 diagnosed with Insomnia.,1
+P0016,66,Female,Insomnia,33.26,84.77,Patient P0016 diagnosed with Insomnia.,1
+P0017,62,Male,Obstructive Sleep Apnea,40.02,78.97,Patient P0017 diagnosed with Obstructive Sleep Apnea.,1
+P0018,23,Female,Insomnia,33.13,81.46,Patient P0018 diagnosed with Insomnia.,1
+P0019,35,Male,Obstructive Sleep Apnea,4.61,90.14,Patient P0019 diagnosed with Obstructive Sleep Apnea.,0
+P0020,78,Male,Insomnia,29.82,85.83,Patient P0020 diagnosed with Insomnia.,1
+P0021,60,Female,Obstructive Sleep Apnea,27.48,94.36,Patient P0021 diagnosed with Obstructive Sleep Apnea.,1
+P0022,24,Male,Narcolepsy,45.02,96.31,Patient P0022 diagnosed with Narcolepsy.,1
+P0023,51,Male,Obstructive Sleep Apnea,20.21,88.54,Patient P0023 diagnosed with Obstructive Sleep Apnea.,1
+P0024,61,Female,No Disorder,16.05,93.96,Patient P0024 diagnosed with No Disorder.,1
+P0025,44,Male,Insomnia,37.49,82.67,Patient P0025 diagnosed with Insomnia.,1
+P0026,62,Male,Narcolepsy,20.63,85.37,Patient P0026 diagnosed with Narcolepsy.,1
+P0027,17,Female,Restless Leg Syndrome,32.3,92.82,Patient P0027 diagnosed with Restless Leg Syndrome.,1
+P0028,64,Female,Restless Leg Syndrome,32.32,84.66,Patient P0028 diagnosed with Restless Leg Syndrome.,1
+P0029,64,Male,Narcolepsy,44.4,89.71,Patient P0029 diagnosed with Narcolepsy.,1
+P0030,49,Male,Insomnia,29.93,79.63,Patient P0030 diagnosed with Insomnia.,1
+P0031,64,Female,Insomnia,25.11,89.99,Patient P0031 diagnosed with Insomnia.,1
+P0032,53,Female,Insomnia,6.94,96.54,Patient P0032 diagnosed with Insomnia.,0
+P0033,57,Male,Restless Leg Syndrome,5.79,96.72,Patient P0033 diagnosed with Restless Leg Syndrome.,0
+P0034,66,Female,Obstructive Sleep Apnea,7.72,93.11,Patient P0034 diagnosed with Obstructive Sleep Apnea.,0
+P0035,5,Male,Insomnia,8.59,93.64,Patient P0035 diagnosed with Insomnia.,0
+P0036,53,Male,Restless Leg Syndrome,31.89,88.95,Patient P0036 diagnosed with Restless Leg Syndrome.,1
+P0037,9,Male,Restless Leg Syndrome,37.05,89.62,Patient P0037 diagnosed with Restless Leg Syndrome.,1
+P0038,23,Male,Narcolepsy,26.5,78.34,Patient P0038 diagnosed with Narcolepsy.,1
+P0039,75,Male,Restless Leg Syndrome,41.45,86.1,Patient P0039 diagnosed with Restless Leg Syndrome.,1
+P0040,41,Female,No Disorder,49.56,86.27,Patient P0040 diagnosed with No Disorder.,1
+P0041,20,Female,Obstructive Sleep Apnea,41.0,98.96,Patient P0041 diagnosed with Obstructive Sleep Apnea.,1
+P0042,6,Female,Insomnia,34.74,85.78,Patient P0042 diagnosed with Insomnia.,1
+P0043,62,Female,Insomnia,26.62,88.73,Patient P0043 diagnosed with Insomnia.,1
+P0044,16,Male,Insomnia,22.44,88.33,Patient P0044 diagnosed with Insomnia.,1
+P0045,11,Male,Narcolepsy,4.22,90.92,Patient P0045 diagnosed with Narcolepsy.,0
+P0046,55,Male,Obstructive Sleep Apnea,19.97,93.71,Patient P0046 diagnosed with Obstructive Sleep Apnea.,1
+P0047,4,Male,Narcolepsy,45.51,80.63,Patient P0047 diagnosed with Narcolepsy.,1
+P0048,62,Female,Insomnia,40.4,88.22,Patient P0048 diagnosed with Insomnia.,1
+P0049,73,Male,Restless Leg Syndrome,10.8,95.65,Patient P0049 diagnosed with Restless Leg Syndrome.,0
+P0050,46,Male,Restless Leg Syndrome,23.33,86.58,Patient P0050 diagnosed with Restless Leg Syndrome.,1
+P0051,10,Female,Insomnia,40.84,81.96,Patient P0051 diagnosed with Insomnia.,1
+P0052,49,Female,Insomnia,3.37,91.37,Patient P0052 diagnosed with Insomnia.,0
+P0053,37,Female,Insomnia,19.37,95.59,Patient P0053 diagnosed with Insomnia.,1
+P0054,80,Female,Obstructive Sleep Apnea,42.59,76.58,Patient P0054 diagnosed with Obstructive Sleep Apnea.,1
+P0055,38,Male,Insomnia,20.19,94.42,Patient P0055 diagnosed with Insomnia.,1
+P0056,52,Male,Obstructive Sleep Apnea,3.88,95.54,Patient P0056 diagnosed with Obstructive Sleep Apnea.,0
+P0057,6,Female,Insomnia,27.13,86.54,Patient P0057 diagnosed with Insomnia.,1
+P0058,4,Male,Restless Leg Syndrome,43.09,99.58,Patient P0058 diagnosed with Restless Leg Syndrome.,1
+P0059,8,Male,Restless Leg Syndrome,29.51,94.67,Patient P0059 diagnosed with Restless Leg Syndrome.,1
+P0060,56,Male,Restless Leg Syndrome,11.31,94.34,Patient P0060 diagnosed with Restless Leg Syndrome.,0
+P0061,6,Female,Obstructive Sleep Apnea,19.21,93.7,Patient P0061 diagnosed with Obstructive Sleep Apnea.,1
+P0062,56,Male,Restless Leg Syndrome,22.51,78.77,Patient P0062 diagnosed with Restless Leg Syndrome.,1
+P0063,65,Female,Insomnia,28.96,80.43,Patient P0063 diagnosed with Insomnia.,1
+P0064,20,Male,Insomnia,37.97,86.6,Patient P0064 diagnosed with Insomnia.,1
+P0065,46,Male,Narcolepsy,4.94,81.6,Patient P0065 diagnosed with Narcolepsy.,1
+P0066,36,Male,Obstructive Sleep Apnea,44.48,85.38,Patient P0066 diagnosed with Obstructive Sleep Apnea.,1
+P0067,76,Female,Restless Leg Syndrome,0.62,97.21,Patient P0067 diagnosed with Restless Leg Syndrome.,0
+P0068,64,Male,Restless Leg Syndrome,18.5,95.61,Patient P0068 diagnosed with Restless Leg Syndrome.,1
+P0069,16,Female,Insomnia,1.37,90.75,Patient P0069 diagnosed with Insomnia.,0
+P0070,50,Female,Obstructive Sleep Apnea,19.65,96.45,Patient P0070 diagnosed with Obstructive Sleep Apnea.,1
+P0071,17,Female,Obstructive Sleep Apnea,26.29,94.59,Patient P0071 diagnosed with Obstructive Sleep Apnea.,1
+P0072,74,Male,Narcolepsy,25.58,85.72,Patient P0072 diagnosed with Narcolepsy.,1
+P0073,80,Male,Insomnia,8.28,80.03,Patient P0073 diagnosed with Insomnia.,1
+P0074,64,Male,Insomnia,32.29,87.86,Patient P0074 diagnosed with Insomnia.,1
+P0075,42,Male,Insomnia,2.24,93.41,Patient P0075 diagnosed with Insomnia.,0
+P0076,55,Female,Restless Leg Syndrome,38.1,85.91,Patient P0076 diagnosed with Restless Leg Syndrome.,1
+P0077,26,Female,Obstructive Sleep Apnea,47.33,91.67,Patient P0077 diagnosed with Obstructive Sleep Apnea.,1
+P0078,28,Female,Insomnia,16.99,77.36,Patient P0078 diagnosed with Insomnia.,1
+P0079,62,Male,Restless Leg Syndrome,25.86,93.7,Patient P0079 diagnosed with Restless Leg Syndrome.,1
+P0080,43,Female,No Disorder,18.95,95.32,Patient P0080 diagnosed with No Disorder.,1
+P0081,31,Male,Obstructive Sleep Apnea,0.34,92.67,Patient P0081 diagnosed with Obstructive Sleep Apnea.,0
+P0082,17,Female,Insomnia,19.29,99.18,Patient P0082 diagnosed with Insomnia.,1
+P0083,47,Male,Insomnia,39.59,95.67,Patient P0083 diagnosed with Insomnia.,1
+P0084,67,Male,Restless Leg Syndrome,29.8,97.58,Patient P0084 diagnosed with Restless Leg Syndrome.,1
+P0085,73,Female,Insomnia,5.06,98.34,Patient P0085 diagnosed with Insomnia.,0
+P0086,11,Female,Insomnia,42.36,95.03,Patient P0086 diagnosed with Insomnia.,1
+P0087,3,Female,Narcolepsy,26.55,91.86,Patient P0087 diagnosed with Narcolepsy.,1
+P0088,10,Female,Restless Leg Syndrome,42.09,75.14,Patient P0088 diagnosed with Restless Leg Syndrome.,1
+P0089,65,Male,Insomnia,29.01,86.65,Patient P0089 diagnosed with Insomnia.,1
+P0090,13,Female,Narcolepsy,27.98,89.28,Patient P0090 diagnosed with Narcolepsy.,1
+P0091,10,Female,Restless Leg Syndrome,5.26,82.6,Patient P0091 diagnosed with Restless Leg Syndrome.,1
+P0092,37,Female,Insomnia,8.37,82.95,Patient P0092 diagnosed with Insomnia.,1
+P0093,37,Male,Obstructive Sleep Apnea,48.6,99.03,Patient P0093 diagnosed with Obstructive Sleep Apnea.,1
+P0094,35,Male,No Disorder,11.42,97.29,Patient P0094 diagnosed with No Disorder.,0
+P0095,7,Female,Obstructive Sleep Apnea,48.87,96.23,Patient P0095 diagnosed with Obstructive Sleep Apnea.,1
+P0096,43,Male,Obstructive Sleep Apnea,26.6,85.15,Patient P0096 diagnosed with Obstructive Sleep Apnea.,1
+P0097,30,Female,Obstructive Sleep Apnea,6.79,75.34,Patient P0097 diagnosed with Obstructive Sleep Apnea.,1
+P0098,9,Male,Restless Leg Syndrome,4.97,77.01,Patient P0098 diagnosed with Restless Leg Syndrome.,1
+P0099,75,Male,Obstructive Sleep Apnea,10.44,82.8,Patient P0099 diagnosed with Obstructive Sleep Apnea.,1
+P0100,74,Male,Obstructive Sleep Apnea,46.28,75.39,Patient P0100 diagnosed with Obstructive Sleep Apnea.,1
+P0101,14,Male,Obstructive Sleep Apnea,20.71,75.43,Patient P0101 diagnosed with Obstructive Sleep Apnea.,1
+P0102,36,Female,Obstructive Sleep Apnea,19.77,97.92,Patient P0102 diagnosed with Obstructive Sleep Apnea.,1
+P0103,35,Female,Restless Leg Syndrome,15.66,92.65,Patient P0103 diagnosed with Restless Leg Syndrome.,1
+P0104,50,Female,Restless Leg Syndrome,7.35,82.72,Patient P0104 diagnosed with Restless Leg Syndrome.,1
+P0105,25,Male,Insomnia,24.39,78.32,Patient P0105 diagnosed with Insomnia.,1
+P0106,64,Female,Insomnia,6.5,87.79,Patient P0106 diagnosed with Insomnia.,1
+P0107,39,Female,Restless Leg Syndrome,41.77,75.13,Patient P0107 diagnosed with Restless Leg Syndrome.,1
+P0108,46,Female,Obstructive Sleep Apnea,18.52,98.46,Patient P0108 diagnosed with Obstructive Sleep Apnea.,1
+P0109,37,Male,Insomnia,18.74,85.37,Patient P0109 diagnosed with Insomnia.,1
+P0110,67,Male,No Disorder,23.7,85.06,Patient P0110 diagnosed with No Disorder.,1
+P0111,49,Male,Restless Leg Syndrome,22.21,84.76,Patient P0111 diagnosed with Restless Leg Syndrome.,1
+P0112,80,Female,Obstructive Sleep Apnea,49.74,76.73,Patient P0112 diagnosed with Obstructive Sleep Apnea.,1
+P0113,5,Female,Insomnia,27.27,90.96,Patient P0113 diagnosed with Insomnia.,1
+P0114,3,Female,Insomnia,4.41,93.33,Patient P0114 diagnosed with Insomnia.,0
+P0115,7,Male,Insomnia,30.34,91.9,Patient P0115 diagnosed with Insomnia.,1
+P0116,16,Male,Obstructive Sleep Apnea,7.58,78.46,Patient P0116 diagnosed with Obstructive Sleep Apnea.,1
+P0117,29,Female,Obstructive Sleep Apnea,1.55,89.47,Patient P0117 diagnosed with Obstructive Sleep Apnea.,1
+P0118,11,Male,Obstructive Sleep Apnea,48.54,89.24,Patient P0118 diagnosed with Obstructive Sleep Apnea.,1
+P0119,17,Male,No Disorder,38.68,96.71,Patient P0119 diagnosed with No Disorder.,1
+P0120,44,Male,Restless Leg Syndrome,49.01,84.48,Patient P0120 diagnosed with Restless Leg Syndrome.,1
+P0121,79,Male,Obstructive Sleep Apnea,23.89,84.29,Patient P0121 diagnosed with Obstructive Sleep Apnea.,1
+P0122,53,Female,Obstructive Sleep Apnea,26.61,90.46,Patient P0122 diagnosed with Obstructive Sleep Apnea.,1
+P0123,65,Male,Restless Leg Syndrome,8.42,90.83,Patient P0123 diagnosed with Restless Leg Syndrome.,0
+P0124,54,Male,Obstructive Sleep Apnea,12.35,86.73,Patient P0124 diagnosed with Obstructive Sleep Apnea.,1
+P0125,6,Male,Obstructive Sleep Apnea,41.93,86.08,Patient P0125 diagnosed with Obstructive Sleep Apnea.,1
+P0126,25,Male,No Disorder,17.81,87.35,Patient P0126 diagnosed with No Disorder.,1
+P0127,17,Female,Obstructive Sleep Apnea,41.34,96.53,Patient P0127 diagnosed with Obstructive Sleep Apnea.,1
+P0128,45,Female,Restless Leg Syndrome,35.45,86.53,Patient P0128 diagnosed with Restless Leg Syndrome.,1
+P0129,31,Male,No Disorder,8.86,98.5,Patient P0129 diagnosed with No Disorder.,0
+P0130,38,Male,Insomnia,25.37,87.6,Patient P0130 diagnosed with Insomnia.,1
+P0131,15,Male,Obstructive Sleep Apnea,33.87,98.73,Patient P0131 diagnosed with Obstructive Sleep Apnea.,1
+P0132,34,Male,Obstructive Sleep Apnea,11.75,95.82,Patient P0132 diagnosed with Obstructive Sleep Apnea.,0
+P0133,73,Male,Narcolepsy,41.53,84.06,Patient P0133 diagnosed with Narcolepsy.,1
+P0134,61,Male,Narcolepsy,27.24,96.59,Patient P0134 diagnosed with Narcolepsy.,1
+P0135,30,Female,Narcolepsy,8.26,77.75,Patient P0135 diagnosed with Narcolepsy.,1
+P0136,68,Male,Obstructive Sleep Apnea,29.15,98.13,Patient P0136 diagnosed with Obstructive Sleep Apnea.,1
+P0137,44,Female,Narcolepsy,49.99,90.79,Patient P0137 diagnosed with Narcolepsy.,1
+P0138,47,Female,No Disorder,7.53,76.36,Patient P0138 diagnosed with No Disorder.,1
+P0139,64,Male,Restless Leg Syndrome,40.84,91.11,Patient P0139 diagnosed with Restless Leg Syndrome.,1
+P0140,59,Female,No Disorder,10.37,99.36,Patient P0140 diagnosed with No Disorder.,0
+P0141,8,Female,Narcolepsy,39.12,76.75,Patient P0141 diagnosed with Narcolepsy.,1
+P0142,30,Female,Restless Leg Syndrome,36.73,88.87,Patient P0142 diagnosed with Restless Leg Syndrome.,1
+P0143,30,Female,Restless Leg Syndrome,15.02,93.69,Patient P0143 diagnosed with Restless Leg Syndrome.,1
+P0144,46,Female,Insomnia,16.29,95.26,Patient P0144 diagnosed with Insomnia.,1
+P0145,32,Female,Obstructive Sleep Apnea,39.63,85.35,Patient P0145 diagnosed with Obstructive Sleep Apnea.,1
+P0146,64,Male,Restless Leg Syndrome,23.07,80.1,Patient P0146 diagnosed with Restless Leg Syndrome.,1
+P0147,77,Female,Insomnia,36.54,76.06,Patient P0147 diagnosed with Insomnia.,1
+P0148,64,Female,Narcolepsy,7.4,89.49,Patient P0148 diagnosed with Narcolepsy.,1
+P0149,3,Female,No Disorder,42.63,86.32,Patient P0149 diagnosed with No Disorder.,1
+P0150,29,Male,Narcolepsy,35.54,98.72,Patient P0150 diagnosed with Narcolepsy.,1
+P0151,64,Female,Obstructive Sleep Apnea,45.35,76.52,Patient P0151 diagnosed with Obstructive Sleep Apnea.,1
+P0152,79,Male,Obstructive Sleep Apnea,6.62,92.13,Patient P0152 diagnosed with Obstructive Sleep Apnea.,0
+P0153,5,Female,Obstructive Sleep Apnea,29.65,75.62,Patient P0153 diagnosed with Obstructive Sleep Apnea.,1
+P0154,72,Male,Restless Leg Syndrome,29.96,79.29,Patient P0154 diagnosed with Restless Leg Syndrome.,1
+P0155,74,Male,Narcolepsy,17.67,86.34,Patient P0155 diagnosed with Narcolepsy.,1
+P0156,29,Female,No Disorder,22.92,86.37,Patient P0156 diagnosed with No Disorder.,1
+P0157,11,Female,Insomnia,1.9,92.14,Patient P0157 diagnosed with Insomnia.,0
+P0158,64,Male,No Disorder,37.29,97.76,Patient P0158 diagnosed with No Disorder.,1
+P0159,39,Female,Narcolepsy,27.47,90.98,Patient P0159 diagnosed with Narcolepsy.,1
+P0160,53,Male,Insomnia,2.89,98.84,Patient P0160 diagnosed with Insomnia.,0
+P0161,46,Male,Narcolepsy,34.04,97.04,Patient P0161 diagnosed with Narcolepsy.,1
+P0162,26,Male,Insomnia,23.34,89.61,Patient P0162 diagnosed with Insomnia.,1
+P0163,61,Male,Obstructive Sleep Apnea,1.72,95.84,Patient P0163 diagnosed with Obstructive Sleep Apnea.,0
+P0164,34,Male,Restless Leg Syndrome,48.48,91.06,Patient P0164 diagnosed with Restless Leg Syndrome.,1
+P0165,54,Female,Insomnia,47.46,76.96,Patient P0165 diagnosed with Insomnia.,1
+P0166,64,Male,Restless Leg Syndrome,25.65,93.51,Patient P0166 diagnosed with Restless Leg Syndrome.,1
+P0167,60,Male,Restless Leg Syndrome,4.68,77.37,Patient P0167 diagnosed with Restless Leg Syndrome.,1
+P0168,54,Female,Restless Leg Syndrome,37.73,89.85,Patient P0168 diagnosed with Restless Leg Syndrome.,1
+P0169,14,Male,Insomnia,24.6,92.57,Patient P0169 diagnosed with Insomnia.,1
+P0170,41,Female,Insomnia,15.12,76.66,Patient P0170 diagnosed with Insomnia.,1
+P0171,4,Female,Restless Leg Syndrome,24.57,80.77,Patient P0171 diagnosed with Restless Leg Syndrome.,1
+P0172,5,Female,Insomnia,26.12,97.89,Patient P0172 diagnosed with Insomnia.,1
+P0173,58,Male,Insomnia,28.14,90.41,Patient P0173 diagnosed with Insomnia.,1
+P0174,61,Male,Obstructive Sleep Apnea,22.06,81.16,Patient P0174 diagnosed with Obstructive Sleep Apnea.,1
+P0175,4,Male,Restless Leg Syndrome,30.29,92.27,Patient P0175 diagnosed with Restless Leg Syndrome.,1
+P0176,4,Female,Obstructive Sleep Apnea,45.94,89.92,Patient P0176 diagnosed with Obstructive Sleep Apnea.,1
+P0177,56,Male,Restless Leg Syndrome,18.11,87.54,Patient P0177 diagnosed with Restless Leg Syndrome.,1
+P0178,3,Female,Narcolepsy,36.29,99.4,Patient P0178 diagnosed with Narcolepsy.,1
+P0179,21,Male,Insomnia,44.72,92.09,Patient P0179 diagnosed with Insomnia.,1
+P0180,4,Female,Insomnia,22.8,84.39,Patient P0180 diagnosed with Insomnia.,1
+P0181,55,Male,No Disorder,22.17,95.0,Patient P0181 diagnosed with No Disorder.,1
+P0182,46,Male,Narcolepsy,30.11,97.11,Patient P0182 diagnosed with Narcolepsy.,1
+P0183,34,Male,No Disorder,29.57,78.13,Patient P0183 diagnosed with No Disorder.,1
+P0184,72,Female,Narcolepsy,40.33,80.01,Patient P0184 diagnosed with Narcolepsy.,1
+P0185,34,Female,Obstructive Sleep Apnea,23.82,80.41,Patient P0185 diagnosed with Obstructive Sleep Apnea.,1
+P0186,70,Male,Obstructive Sleep Apnea,49.81,92.28,Patient P0186 diagnosed with Obstructive Sleep Apnea.,1
+P0187,57,Male,Insomnia,2.97,90.08,Patient P0187 diagnosed with Insomnia.,0
+P0188,77,Female,Obstructive Sleep Apnea,0.16,90.47,Patient P0188 diagnosed with Obstructive Sleep Apnea.,0
+P0189,58,Female,Insomnia,32.01,98.52,Patient P0189 diagnosed with Insomnia.,1
+P0190,19,Female,Insomnia,14.92,94.4,Patient P0190 diagnosed with Insomnia.,0
+P0191,40,Male,Insomnia,12.02,78.2,Patient P0191 diagnosed with Insomnia.,1
+P0192,26,Female,Restless Leg Syndrome,15.59,83.69,Patient P0192 diagnosed with Restless Leg Syndrome.,1
+P0193,71,Male,Restless Leg Syndrome,12.8,85.88,Patient P0193 diagnosed with Restless Leg Syndrome.,1
+P0194,72,Female,Insomnia,1.54,84.9,Patient P0194 diagnosed with Insomnia.,1
+P0195,13,Male,Narcolepsy,48.58,91.73,Patient P0195 diagnosed with Narcolepsy.,1
+P0196,18,Female,Insomnia,11.04,97.3,Patient P0196 diagnosed with Insomnia.,0
+P0197,75,Female,Narcolepsy,36.7,82.65,Patient P0197 diagnosed with Narcolepsy.,1
+P0198,61,Female,Obstructive Sleep Apnea,38.13,88.8,Patient P0198 diagnosed with Obstructive Sleep Apnea.,1
+P0199,72,Female,No Disorder,46.46,94.74,Patient P0199 diagnosed with No Disorder.,1
+P0200,5,Female,Restless Leg Syndrome,1.53,85.41,Patient P0200 diagnosed with Restless Leg Syndrome.,1
+P0201,22,Male,Insomnia,43.6,79.2,Patient P0201 diagnosed with Insomnia.,1
+P0202,61,Female,Obstructive Sleep Apnea,26.36,86.87,Patient P0202 diagnosed with Obstructive Sleep Apnea.,1
+P0203,38,Female,Insomnia,31.63,76.38,Patient P0203 diagnosed with Insomnia.,1
+P0204,21,Female,Obstructive Sleep Apnea,32.22,98.56,Patient P0204 diagnosed with Obstructive Sleep Apnea.,1
+P0205,69,Male,Obstructive Sleep Apnea,40.99,76.87,Patient P0205 diagnosed with Obstructive Sleep Apnea.,1
+P0206,21,Female,Restless Leg Syndrome,16.67,85.96,Patient P0206 diagnosed with Restless Leg Syndrome.,1
+P0207,22,Male,Insomnia,36.65,88.25,Patient P0207 diagnosed with Insomnia.,1
+P0208,73,Female,Restless Leg Syndrome,26.43,99.63,Patient P0208 diagnosed with Restless Leg Syndrome.,1
+P0209,54,Female,No Disorder,39.67,79.15,Patient P0209 diagnosed with No Disorder.,1
+P0210,35,Male,Insomnia,49.53,77.86,Patient P0210 diagnosed with Insomnia.,1
+P0211,42,Female,Restless Leg Syndrome,10.03,75.22,Patient P0211 diagnosed with Restless Leg Syndrome.,1
+P0212,41,Male,Obstructive Sleep Apnea,49.73,78.89,Patient P0212 diagnosed with Obstructive Sleep Apnea.,1
+P0213,3,Male,Restless Leg Syndrome,4.49,80.18,Patient P0213 diagnosed with Restless Leg Syndrome.,1
+P0214,13,Female,Insomnia,0.12,90.76,Patient P0214 diagnosed with Insomnia.,0
+P0215,59,Male,No Disorder,2.21,80.49,Patient P0215 diagnosed with No Disorder.,1
+P0216,52,Female,Narcolepsy,17.09,75.51,Patient P0216 diagnosed with Narcolepsy.,1
+P0217,25,Female,Insomnia,31.65,95.67,Patient P0217 diagnosed with Insomnia.,1
+P0218,33,Male,Obstructive Sleep Apnea,3.45,84.14,Patient P0218 diagnosed with Obstructive Sleep Apnea.,1
+P0219,44,Male,Narcolepsy,0.28,83.84,Patient P0219 diagnosed with Narcolepsy.,1
+P0220,9,Male,Narcolepsy,46.85,82.56,Patient P0220 diagnosed with Narcolepsy.,1
+P0221,18,Male,Obstructive Sleep Apnea,41.1,99.38,Patient P0221 diagnosed with Obstructive Sleep Apnea.,1
+P0222,62,Female,Obstructive Sleep Apnea,40.46,79.25,Patient P0222 diagnosed with Obstructive Sleep Apnea.,1
+P0223,4,Female,Narcolepsy,44.22,97.46,Patient P0223 diagnosed with Narcolepsy.,1
+P0224,3,Male,Obstructive Sleep Apnea,35.0,94.42,Patient P0224 diagnosed with Obstructive Sleep Apnea.,1
+P0225,50,Female,No Disorder,5.22,76.91,Patient P0225 diagnosed with No Disorder.,1
+P0226,14,Female,Insomnia,19.96,99.67,Patient P0226 diagnosed with Insomnia.,1
+P0227,71,Female,Obstructive Sleep Apnea,36.16,81.78,Patient P0227 diagnosed with Obstructive Sleep Apnea.,1
+P0228,39,Female,Narcolepsy,14.02,77.46,Patient P0228 diagnosed with Narcolepsy.,1
+P0229,34,Male,Insomnia,34.37,95.73,Patient P0229 diagnosed with Insomnia.,1
+P0230,11,Male,Insomnia,1.22,92.67,Patient P0230 diagnosed with Insomnia.,0
+P0231,21,Female,Obstructive Sleep Apnea,15.31,90.43,Patient P0231 diagnosed with Obstructive Sleep Apnea.,1
+P0232,50,Male,Obstructive Sleep Apnea,27.46,78.9,Patient P0232 diagnosed with Obstructive Sleep Apnea.,1
+P0233,5,Male,Restless Leg Syndrome,31.6,86.96,Patient P0233 diagnosed with Restless Leg Syndrome.,1
+P0234,22,Male,Insomnia,28.85,94.51,Patient P0234 diagnosed with Insomnia.,1
+P0235,26,Female,Restless Leg Syndrome,34.89,82.59,Patient P0235 diagnosed with Restless Leg Syndrome.,1
+P0236,56,Female,Narcolepsy,0.3,82.79,Patient P0236 diagnosed with Narcolepsy.,1
+P0237,35,Female,Restless Leg Syndrome,5.05,75.08,Patient P0237 diagnosed with Restless Leg Syndrome.,1
+P0238,26,Male,Obstructive Sleep Apnea,43.45,79.36,Patient P0238 diagnosed with Obstructive Sleep Apnea.,1
+P0239,77,Female,Insomnia,34.09,96.89,Patient P0239 diagnosed with Insomnia.,1
+P0240,74,Female,No Disorder,5.65,86.04,Patient P0240 diagnosed with No Disorder.,1
+P0241,38,Male,Narcolepsy,42.1,99.61,Patient P0241 diagnosed with Narcolepsy.,1
+P0242,40,Female,Restless Leg Syndrome,12.11,84.89,Patient P0242 diagnosed with Restless Leg Syndrome.,1
+P0243,27,Female,Obstructive Sleep Apnea,23.91,92.88,Patient P0243 diagnosed with Obstructive Sleep Apnea.,1
+P0244,20,Male,Insomnia,7.26,82.05,Patient P0244 diagnosed with Insomnia.,1
+P0245,68,Male,Restless Leg Syndrome,35.51,84.1,Patient P0245 diagnosed with Restless Leg Syndrome.,1
+P0246,56,Male,Narcolepsy,33.34,79.77,Patient P0246 diagnosed with Narcolepsy.,1
+P0247,37,Female,Restless Leg Syndrome,10.56,83.68,Patient P0247 diagnosed with Restless Leg Syndrome.,1
+P0248,63,Female,Narcolepsy,43.17,88.68,Patient P0248 diagnosed with Narcolepsy.,1
+P0249,43,Female,Narcolepsy,20.07,99.79,Patient P0249 diagnosed with Narcolepsy.,1
+P0250,35,Male,Obstructive Sleep Apnea,14.63,91.61,Patient P0250 diagnosed with Obstructive Sleep Apnea.,0
+P0251,70,Male,Insomnia,7.62,79.98,Patient P0251 diagnosed with Insomnia.,1
+P0252,35,Female,Obstructive Sleep Apnea,13.31,76.12,Patient P0252 diagnosed with Obstructive Sleep Apnea.,1
+P0253,16,Female,Obstructive Sleep Apnea,1.1,78.16,Patient P0253 diagnosed with Obstructive Sleep Apnea.,1
+P0254,23,Male,Narcolepsy,29.16,89.06,Patient P0254 diagnosed with Narcolepsy.,1
+P0255,50,Male,Insomnia,42.11,94.13,Patient P0255 diagnosed with Insomnia.,1
+P0256,22,Male,Insomnia,27.45,98.51,Patient P0256 diagnosed with Insomnia.,1
+P0257,10,Male,Obstructive Sleep Apnea,10.96,75.4,Patient P0257 diagnosed with Obstructive Sleep Apnea.,1
+P0258,9,Female,Insomnia,1.68,88.07,Patient P0258 diagnosed with Insomnia.,1
+P0259,69,Male,Obstructive Sleep Apnea,10.73,86.77,Patient P0259 diagnosed with Obstructive Sleep Apnea.,1
+P0260,19,Female,Obstructive Sleep Apnea,20.81,91.4,Patient P0260 diagnosed with Obstructive Sleep Apnea.,1
+P0261,35,Female,Restless Leg Syndrome,37.98,88.99,Patient P0261 diagnosed with Restless Leg Syndrome.,1
+P0262,50,Female,Obstructive Sleep Apnea,9.39,92.18,Patient P0262 diagnosed with Obstructive Sleep Apnea.,0
+P0263,78,Male,Restless Leg Syndrome,35.99,91.45,Patient P0263 diagnosed with Restless Leg Syndrome.,1
+P0264,61,Male,Obstructive Sleep Apnea,43.35,77.93,Patient P0264 diagnosed with Obstructive Sleep Apnea.,1
+P0265,24,Male,Obstructive Sleep Apnea,22.7,94.99,Patient P0265 diagnosed with Obstructive Sleep Apnea.,1
+P0266,32,Male,Obstructive Sleep Apnea,41.07,78.08,Patient P0266 diagnosed with Obstructive Sleep Apnea.,1
+P0267,40,Female,Restless Leg Syndrome,27.73,92.46,Patient P0267 diagnosed with Restless Leg Syndrome.,1
+P0268,53,Male,Restless Leg Syndrome,31.85,85.4,Patient P0268 diagnosed with Restless Leg Syndrome.,1
+P0269,56,Male,Insomnia,26.31,87.85,Patient P0269 diagnosed with Insomnia.,1
+P0270,10,Female,Insomnia,23.16,97.58,Patient P0270 diagnosed with Insomnia.,1
+P0271,29,Male,Restless Leg Syndrome,11.73,97.25,Patient P0271 diagnosed with Restless Leg Syndrome.,0
+P0272,29,Female,Obstructive Sleep Apnea,15.16,95.45,Patient P0272 diagnosed with Obstructive Sleep Apnea.,1
+P0273,23,Female,Insomnia,14.5,87.75,Patient P0273 diagnosed with Insomnia.,1
+P0274,32,Female,Narcolepsy,28.16,93.41,Patient P0274 diagnosed with Narcolepsy.,1
+P0275,30,Female,Restless Leg Syndrome,6.0,87.82,Patient P0275 diagnosed with Restless Leg Syndrome.,1
+P0276,66,Female,Insomnia,45.84,96.74,Patient P0276 diagnosed with Insomnia.,1
+P0277,71,Female,No Disorder,36.03,85.07,Patient P0277 diagnosed with No Disorder.,1
+P0278,63,Female,Narcolepsy,20.07,99.26,Patient P0278 diagnosed with Narcolepsy.,1
+P0279,50,Female,Obstructive Sleep Apnea,7.93,98.31,Patient P0279 diagnosed with Obstructive Sleep Apnea.,0
+P0280,21,Male,Restless Leg Syndrome,44.1,93.54,Patient P0280 diagnosed with Restless Leg Syndrome.,1
+P0281,6,Male,Restless Leg Syndrome,41.19,81.99,Patient P0281 diagnosed with Restless Leg Syndrome.,1
+P0282,37,Male,Insomnia,36.09,78.29,Patient P0282 diagnosed with Insomnia.,1
+P0283,66,Male,Insomnia,13.58,96.37,Patient P0283 diagnosed with Insomnia.,0
+P0284,51,Female,Insomnia,20.12,79.13,Patient P0284 diagnosed with Insomnia.,1
+P0285,19,Male,Restless Leg Syndrome,5.14,96.36,Patient P0285 diagnosed with Restless Leg Syndrome.,0
+P0286,46,Female,Insomnia,9.45,87.27,Patient P0286 diagnosed with Insomnia.,1
+P0287,32,Male,Narcolepsy,39.15,85.16,Patient P0287 diagnosed with Narcolepsy.,1
+P0288,48,Male,Restless Leg Syndrome,35.75,97.58,Patient P0288 diagnosed with Restless Leg Syndrome.,1
+P0289,8,Male,Obstructive Sleep Apnea,29.67,90.1,Patient P0289 diagnosed with Obstructive Sleep Apnea.,1
+P0290,39,Female,Restless Leg Syndrome,44.79,89.42,Patient P0290 diagnosed with Restless Leg Syndrome.,1
+P0291,26,Male,Obstructive Sleep Apnea,29.16,88.97,Patient P0291 diagnosed with Obstructive Sleep Apnea.,1
+P0292,48,Female,Restless Leg Syndrome,23.35,84.28,Patient P0292 diagnosed with Restless Leg Syndrome.,1
+P0293,55,Female,Restless Leg Syndrome,17.02,94.64,Patient P0293 diagnosed with Restless Leg Syndrome.,1
+P0294,62,Male,Obstructive Sleep Apnea,47.02,81.32,Patient P0294 diagnosed with Obstructive Sleep Apnea.,1
+P0295,65,Male,Insomnia,4.14,98.47,Patient P0295 diagnosed with Insomnia.,0
+P0296,34,Male,Obstructive Sleep Apnea,46.54,97.35,Patient P0296 diagnosed with Obstructive Sleep Apnea.,1
+P0297,35,Female,Obstructive Sleep Apnea,41.34,83.44,Patient P0297 diagnosed with Obstructive Sleep Apnea.,1
+P0298,69,Male,Insomnia,6.5,93.24,Patient P0298 diagnosed with Insomnia.,0
+P0299,20,Female,Insomnia,28.25,89.33,Patient P0299 diagnosed with Insomnia.,1
+P0300,27,Female,No Disorder,43.33,83.44,Patient P0300 diagnosed with No Disorder.,1
+P0301,56,Male,Insomnia,28.59,99.71,Patient P0301 diagnosed with Insomnia.,1
+P0302,60,Male,Insomnia,45.36,75.63,Patient P0302 diagnosed with Insomnia.,1
+P0303,69,Female,Restless Leg Syndrome,47.15,81.32,Patient P0303 diagnosed with Restless Leg Syndrome.,1
+P0304,48,Female,Obstructive Sleep Apnea,21.12,88.0,Patient P0304 diagnosed with Obstructive Sleep Apnea.,1
+P0305,26,Female,No Disorder,18.87,88.05,Patient P0305 diagnosed with No Disorder.,1
+P0306,34,Male,Restless Leg Syndrome,46.82,89.72,Patient P0306 diagnosed with Restless Leg Syndrome.,1
+P0307,49,Female,Narcolepsy,33.76,93.79,Patient P0307 diagnosed with Narcolepsy.,1
+P0308,25,Male,Obstructive Sleep Apnea,5.8,90.59,Patient P0308 diagnosed with Obstructive Sleep Apnea.,0
+P0309,68,Female,Insomnia,2.11,90.01,Patient P0309 diagnosed with Insomnia.,0
+P0310,29,Female,Insomnia,28.23,76.34,Patient P0310 diagnosed with Insomnia.,1
+P0311,4,Male,Narcolepsy,46.51,84.41,Patient P0311 diagnosed with Narcolepsy.,1
+P0312,19,Female,Obstructive Sleep Apnea,42.21,80.8,Patient P0312 diagnosed with Obstructive Sleep Apnea.,1
+P0313,35,Male,Insomnia,33.79,81.63,Patient P0313 diagnosed with Insomnia.,1
+P0314,11,Male,No Disorder,6.96,88.86,Patient P0314 diagnosed with No Disorder.,1
+P0315,45,Female,Insomnia,12.71,79.99,Patient P0315 diagnosed with Insomnia.,1
+P0316,50,Male,Insomnia,43.78,82.35,Patient P0316 diagnosed with Insomnia.,1
+P0317,41,Male,Obstructive Sleep Apnea,9.14,80.93,Patient P0317 diagnosed with Obstructive Sleep Apnea.,1
+P0318,44,Female,No Disorder,13.92,98.71,Patient P0318 diagnosed with No Disorder.,0
+P0319,28,Male,Obstructive Sleep Apnea,6.48,98.62,Patient P0319 diagnosed with Obstructive Sleep Apnea.,0
+P0320,52,Male,Restless Leg Syndrome,33.81,90.25,Patient P0320 diagnosed with Restless Leg Syndrome.,1
+P0321,27,Male,Narcolepsy,47.2,98.11,Patient P0321 diagnosed with Narcolepsy.,1
+P0322,26,Female,Obstructive Sleep Apnea,13.45,94.65,Patient P0322 diagnosed with Obstructive Sleep Apnea.,0
+P0323,15,Male,Restless Leg Syndrome,23.77,89.75,Patient P0323 diagnosed with Restless Leg Syndrome.,1
+P0324,62,Female,Obstructive Sleep Apnea,31.72,75.16,Patient P0324 diagnosed with Obstructive Sleep Apnea.,1
+P0325,9,Female,Obstructive Sleep Apnea,49.97,94.31,Patient P0325 diagnosed with Obstructive Sleep Apnea.,1
+P0326,59,Male,Narcolepsy,5.24,92.56,Patient P0326 diagnosed with Narcolepsy.,0
+P0327,38,Male,Narcolepsy,24.93,90.38,Patient P0327 diagnosed with Narcolepsy.,1
+P0328,47,Male,Restless Leg Syndrome,19.26,94.01,Patient P0328 diagnosed with Restless Leg Syndrome.,1
+P0329,22,Female,Insomnia,43.29,87.82,Patient P0329 diagnosed with Insomnia.,1
+P0330,67,Male,Obstructive Sleep Apnea,23.8,92.6,Patient P0330 diagnosed with Obstructive Sleep Apnea.,1
+P0331,10,Male,Obstructive Sleep Apnea,5.55,98.38,Patient P0331 diagnosed with Obstructive Sleep Apnea.,0
+P0332,18,Male,Obstructive Sleep Apnea,31.72,84.4,Patient P0332 diagnosed with Obstructive Sleep Apnea.,1
+P0333,16,Male,Obstructive Sleep Apnea,38.54,92.7,Patient P0333 diagnosed with Obstructive Sleep Apnea.,1
+P0334,78,Male,Insomnia,0.14,86.89,Patient P0334 diagnosed with Insomnia.,1
+P0335,17,Female,Insomnia,42.95,91.86,Patient P0335 diagnosed with Insomnia.,1
+P0336,68,Female,Insomnia,9.3,94.07,Patient P0336 diagnosed with Insomnia.,0
+P0337,34,Male,Obstructive Sleep Apnea,27.6,76.14,Patient P0337 diagnosed with Obstructive Sleep Apnea.,1
+P0338,65,Male,Insomnia,20.79,91.17,Patient P0338 diagnosed with Insomnia.,1
+P0339,53,Male,Narcolepsy,35.98,80.67,Patient P0339 diagnosed with Narcolepsy.,1
+P0340,27,Male,Obstructive Sleep Apnea,18.56,91.75,Patient P0340 diagnosed with Obstructive Sleep Apnea.,1
+P0341,60,Female,No Disorder,43.49,86.71,Patient P0341 diagnosed with No Disorder.,1
+P0342,65,Male,Narcolepsy,36.52,94.34,Patient P0342 diagnosed with Narcolepsy.,1
+P0343,64,Female,Obstructive Sleep Apnea,32.39,78.09,Patient P0343 diagnosed with Obstructive Sleep Apnea.,1
+P0344,24,Female,Narcolepsy,39.81,90.66,Patient P0344 diagnosed with Narcolepsy.,1
+P0345,60,Male,Restless Leg Syndrome,37.7,81.96,Patient P0345 diagnosed with Restless Leg Syndrome.,1
+P0346,60,Female,Restless Leg Syndrome,1.8,96.32,Patient P0346 diagnosed with Restless Leg Syndrome.,0
+P0347,51,Female,Insomnia,19.74,98.21,Patient P0347 diagnosed with Insomnia.,1
+P0348,54,Female,Insomnia,46.54,99.91,Patient P0348 diagnosed with Insomnia.,1
+P0349,44,Female,Insomnia,6.29,94.9,Patient P0349 diagnosed with Insomnia.,0
+P0350,72,Male,Insomnia,36.85,93.84,Patient P0350 diagnosed with Insomnia.,1
+P0351,17,Male,Restless Leg Syndrome,48.73,80.39,Patient P0351 diagnosed with Restless Leg Syndrome.,1
+P0352,56,Female,Restless Leg Syndrome,2.61,83.4,Patient P0352 diagnosed with Restless Leg Syndrome.,1
+P0353,62,Male,Insomnia,34.11,86.64,Patient P0353 diagnosed with Insomnia.,1
+P0354,10,Male,Restless Leg Syndrome,23.41,94.33,Patient P0354 diagnosed with Restless Leg Syndrome.,1
+P0355,55,Male,Obstructive Sleep Apnea,28.96,97.87,Patient P0355 diagnosed with Obstructive Sleep Apnea.,1
+P0356,62,Male,Obstructive Sleep Apnea,4.27,79.73,Patient P0356 diagnosed with Obstructive Sleep Apnea.,1
+P0357,7,Male,Narcolepsy,2.15,98.06,Patient P0357 diagnosed with Narcolepsy.,0
+P0358,70,Female,Insomnia,33.34,92.39,Patient P0358 diagnosed with Insomnia.,1
+P0359,8,Male,Obstructive Sleep Apnea,41.17,90.27,Patient P0359 diagnosed with Obstructive Sleep Apnea.,1
+P0360,49,Male,Obstructive Sleep Apnea,39.1,80.0,Patient P0360 diagnosed with Obstructive Sleep Apnea.,1
+P0361,57,Male,Obstructive Sleep Apnea,27.19,76.39,Patient P0361 diagnosed with Obstructive Sleep Apnea.,1
+P0362,42,Male,No Disorder,4.99,89.21,Patient P0362 diagnosed with No Disorder.,1
+P0363,54,Female,Restless Leg Syndrome,34.4,91.29,Patient P0363 diagnosed with Restless Leg Syndrome.,1
+P0364,18,Female,No Disorder,12.09,80.27,Patient P0364 diagnosed with No Disorder.,1
+P0365,15,Female,Restless Leg Syndrome,45.55,88.91,Patient P0365 diagnosed with Restless Leg Syndrome.,1
+P0366,32,Female,Insomnia,41.91,96.41,Patient P0366 diagnosed with Insomnia.,1
+P0367,21,Male,Insomnia,35.47,95.88,Patient P0367 diagnosed with Insomnia.,1
+P0368,19,Female,Restless Leg Syndrome,47.44,98.18,Patient P0368 diagnosed with Restless Leg Syndrome.,1
+P0369,65,Male,Obstructive Sleep Apnea,1.57,84.15,Patient P0369 diagnosed with Obstructive Sleep Apnea.,1
+P0370,21,Male,Narcolepsy,36.81,82.95,Patient P0370 diagnosed with Narcolepsy.,1
+P0371,60,Male,Narcolepsy,16.51,93.74,Patient P0371 diagnosed with Narcolepsy.,1
+P0372,57,Male,Insomnia,45.3,85.78,Patient P0372 diagnosed with Insomnia.,1
+P0373,64,Male,No Disorder,13.33,77.19,Patient P0373 diagnosed with No Disorder.,1
+P0374,25,Female,Narcolepsy,36.24,82.07,Patient P0374 diagnosed with Narcolepsy.,1
+P0375,11,Female,Restless Leg Syndrome,43.88,85.46,Patient P0375 diagnosed with Restless Leg Syndrome.,1
+P0376,14,Female,Obstructive Sleep Apnea,2.08,82.31,Patient P0376 diagnosed with Obstructive Sleep Apnea.,1
+P0377,3,Female,Insomnia,19.88,83.31,Patient P0377 diagnosed with Insomnia.,1
+P0378,60,Male,Insomnia,38.12,82.34,Patient P0378 diagnosed with Insomnia.,1
+P0379,3,Female,Obstructive Sleep Apnea,22.75,76.04,Patient P0379 diagnosed with Obstructive Sleep Apnea.,1
+P0380,36,Male,Obstructive Sleep Apnea,13.36,90.93,Patient P0380 diagnosed with Obstructive Sleep Apnea.,0
+P0381,50,Female,Narcolepsy,10.99,89.93,Patient P0381 diagnosed with Narcolepsy.,1
+P0382,3,Male,Obstructive Sleep Apnea,6.58,91.33,Patient P0382 diagnosed with Obstructive Sleep Apnea.,0
+P0383,18,Male,Restless Leg Syndrome,42.86,79.81,Patient P0383 diagnosed with Restless Leg Syndrome.,1
+P0384,63,Female,No Disorder,28.77,82.39,Patient P0384 diagnosed with No Disorder.,1
+P0385,66,Male,Narcolepsy,3.82,90.49,Patient P0385 diagnosed with Narcolepsy.,0
+P0386,65,Male,Obstructive Sleep Apnea,19.13,89.99,Patient P0386 diagnosed with Obstructive Sleep Apnea.,1
+P0387,71,Female,Narcolepsy,18.39,87.66,Patient P0387 diagnosed with Narcolepsy.,1
+P0388,24,Male,Obstructive Sleep Apnea,9.09,83.76,Patient P0388 diagnosed with Obstructive Sleep Apnea.,1
+P0389,69,Female,Obstructive Sleep Apnea,21.78,97.82,Patient P0389 diagnosed with Obstructive Sleep Apnea.,1
+P0390,78,Female,Restless Leg Syndrome,16.6,83.49,Patient P0390 diagnosed with Restless Leg Syndrome.,1
+P0391,28,Female,Insomnia,17.09,86.39,Patient P0391 diagnosed with Insomnia.,1
+P0392,18,Male,Insomnia,36.95,91.95,Patient P0392 diagnosed with Insomnia.,1
+P0393,53,Male,Restless Leg Syndrome,11.16,88.58,Patient P0393 diagnosed with Restless Leg Syndrome.,1
+P0394,59,Male,Obstructive Sleep Apnea,32.09,83.67,Patient P0394 diagnosed with Obstructive Sleep Apnea.,1
+P0395,31,Female,Obstructive Sleep Apnea,28.53,85.89,Patient P0395 diagnosed with Obstructive Sleep Apnea.,1
+P0396,80,Male,Insomnia,28.4,94.86,Patient P0396 diagnosed with Insomnia.,1
+P0397,71,Female,Narcolepsy,33.15,81.95,Patient P0397 diagnosed with Narcolepsy.,1
+P0398,49,Female,Restless Leg Syndrome,27.42,78.56,Patient P0398 diagnosed with Restless Leg Syndrome.,1
+P0399,64,Male,Obstructive Sleep Apnea,43.96,82.83,Patient P0399 diagnosed with Obstructive Sleep Apnea.,1
+P0400,71,Female,Insomnia,33.78,96.24,Patient P0400 diagnosed with Insomnia.,1
+P0401,78,Male,Obstructive Sleep Apnea,27.35,77.22,Patient P0401 diagnosed with Obstructive Sleep Apnea.,1
+P0402,18,Male,Obstructive Sleep Apnea,41.49,99.79,Patient P0402 diagnosed with Obstructive Sleep Apnea.,1
+P0403,50,Male,Narcolepsy,30.31,88.53,Patient P0403 diagnosed with Narcolepsy.,1
+P0404,41,Male,Obstructive Sleep Apnea,14.56,99.62,Patient P0404 diagnosed with Obstructive Sleep Apnea.,0
+P0405,35,Male,Obstructive Sleep Apnea,10.35,98.47,Patient P0405 diagnosed with Obstructive Sleep Apnea.,0
+P0406,25,Female,Restless Leg Syndrome,7.62,86.32,Patient P0406 diagnosed with Restless Leg Syndrome.,1
+P0407,12,Female,Restless Leg Syndrome,44.97,79.96,Patient P0407 diagnosed with Restless Leg Syndrome.,1
+P0408,71,Female,Restless Leg Syndrome,35.51,79.12,Patient P0408 diagnosed with Restless Leg Syndrome.,1
+P0409,36,Male,Obstructive Sleep Apnea,46.87,81.0,Patient P0409 diagnosed with Obstructive Sleep Apnea.,1
+P0410,54,Male,Obstructive Sleep Apnea,30.16,92.75,Patient P0410 diagnosed with Obstructive Sleep Apnea.,1
+P0411,12,Male,Obstructive Sleep Apnea,23.67,81.82,Patient P0411 diagnosed with Obstructive Sleep Apnea.,1
+P0412,21,Female,Obstructive Sleep Apnea,2.99,83.54,Patient P0412 diagnosed with Obstructive Sleep Apnea.,1
+P0413,60,Male,Restless Leg Syndrome,33.58,86.22,Patient P0413 diagnosed with Restless Leg Syndrome.,1
+P0414,3,Female,Narcolepsy,29.11,97.83,Patient P0414 diagnosed with Narcolepsy.,1
+P0415,71,Female,Restless Leg Syndrome,49.51,79.73,Patient P0415 diagnosed with Restless Leg Syndrome.,1
+P0416,6,Male,Narcolepsy,11.96,75.13,Patient P0416 diagnosed with Narcolepsy.,1
+P0417,18,Male,Insomnia,26.54,76.5,Patient P0417 diagnosed with Insomnia.,1
+P0418,26,Female,Restless Leg Syndrome,32.55,97.62,Patient P0418 diagnosed with Restless Leg Syndrome.,1
+P0419,4,Male,Insomnia,32.23,91.19,Patient P0419 diagnosed with Insomnia.,1
+P0420,34,Female,Insomnia,28.06,81.83,Patient P0420 diagnosed with Insomnia.,1
+P0421,26,Male,Insomnia,38.85,79.43,Patient P0421 diagnosed with Insomnia.,1
+P0422,14,Male,Obstructive Sleep Apnea,10.25,82.36,Patient P0422 diagnosed with Obstructive Sleep Apnea.,1
+P0423,52,Female,Insomnia,36.28,77.87,Patient P0423 diagnosed with Insomnia.,1
+P0424,37,Male,No Disorder,30.99,98.54,Patient P0424 diagnosed with No Disorder.,1
+P0425,35,Female,Obstructive Sleep Apnea,44.8,94.61,Patient P0425 diagnosed with Obstructive Sleep Apnea.,1
+P0426,35,Male,Obstructive Sleep Apnea,42.36,86.56,Patient P0426 diagnosed with Obstructive Sleep Apnea.,1
+P0427,63,Female,Insomnia,15.76,96.62,Patient P0427 diagnosed with Insomnia.,1
+P0428,53,Female,Narcolepsy,13.81,81.24,Patient P0428 diagnosed with Narcolepsy.,1
+P0429,45,Male,Restless Leg Syndrome,49.08,92.93,Patient P0429 diagnosed with Restless Leg Syndrome.,1
+P0430,14,Female,Restless Leg Syndrome,26.36,96.4,Patient P0430 diagnosed with Restless Leg Syndrome.,1
+P0431,69,Male,Obstructive Sleep Apnea,45.32,83.92,Patient P0431 diagnosed with Obstructive Sleep Apnea.,1
+P0432,67,Male,Restless Leg Syndrome,8.19,93.94,Patient P0432 diagnosed with Restless Leg Syndrome.,0
+P0433,35,Male,Insomnia,32.14,82.38,Patient P0433 diagnosed with Insomnia.,1
+P0434,42,Female,Narcolepsy,40.49,82.47,Patient P0434 diagnosed with Narcolepsy.,1
+P0435,76,Female,Restless Leg Syndrome,47.37,77.68,Patient P0435 diagnosed with Restless Leg Syndrome.,1
+P0436,45,Male,Obstructive Sleep Apnea,16.87,86.0,Patient P0436 diagnosed with Obstructive Sleep Apnea.,1
+P0437,46,Male,Obstructive Sleep Apnea,36.25,93.24,Patient P0437 diagnosed with Obstructive Sleep Apnea.,1
+P0438,31,Female,Obstructive Sleep Apnea,26.94,98.51,Patient P0438 diagnosed with Obstructive Sleep Apnea.,1
+P0439,15,Male,Insomnia,3.03,90.09,Patient P0439 diagnosed with Insomnia.,0
+P0440,14,Male,Obstructive Sleep Apnea,34.5,96.58,Patient P0440 diagnosed with Obstructive Sleep Apnea.,1
+P0441,48,Female,Restless Leg Syndrome,34.5,95.56,Patient P0441 diagnosed with Restless Leg Syndrome.,1
+P0442,4,Male,Insomnia,46.53,79.33,Patient P0442 diagnosed with Insomnia.,1
+P0443,37,Female,Obstructive Sleep Apnea,24.87,87.15,Patient P0443 diagnosed with Obstructive Sleep Apnea.,1
+P0444,10,Male,Obstructive Sleep Apnea,11.51,77.92,Patient P0444 diagnosed with Obstructive Sleep Apnea.,1
+P0445,28,Female,Obstructive Sleep Apnea,2.23,92.05,Patient P0445 diagnosed with Obstructive Sleep Apnea.,0
+P0446,76,Male,Narcolepsy,20.78,98.75,Patient P0446 diagnosed with Narcolepsy.,1
+P0447,36,Male,Obstructive Sleep Apnea,15.1,78.43,Patient P0447 diagnosed with Obstructive Sleep Apnea.,1
+P0448,9,Female,Restless Leg Syndrome,38.05,93.35,Patient P0448 diagnosed with Restless Leg Syndrome.,1
+P0449,70,Male,Narcolepsy,17.71,90.81,Patient P0449 diagnosed with Narcolepsy.,1
+P0450,60,Female,Restless Leg Syndrome,47.45,89.59,Patient P0450 diagnosed with Restless Leg Syndrome.,1
+P0451,77,Male,Narcolepsy,48.12,84.75,Patient P0451 diagnosed with Narcolepsy.,1
+P0452,31,Female,Insomnia,31.05,83.88,Patient P0452 diagnosed with Insomnia.,1
+P0453,38,Female,No Disorder,46.43,76.13,Patient P0453 diagnosed with No Disorder.,1
+P0454,23,Female,Obstructive Sleep Apnea,38.04,80.45,Patient P0454 diagnosed with Obstructive Sleep Apnea.,1
+P0455,38,Female,Obstructive Sleep Apnea,27.34,75.38,Patient P0455 diagnosed with Obstructive Sleep Apnea.,1
+P0456,12,Male,Restless Leg Syndrome,9.02,89.54,Patient P0456 diagnosed with Restless Leg Syndrome.,1
+P0457,75,Male,No Disorder,22.93,77.65,Patient P0457 diagnosed with No Disorder.,1
+P0458,26,Female,Narcolepsy,28.04,96.83,Patient P0458 diagnosed with Narcolepsy.,1
+P0459,66,Female,Obstructive Sleep Apnea,43.2,88.08,Patient P0459 diagnosed with Obstructive Sleep Apnea.,1
+P0460,51,Female,Obstructive Sleep Apnea,24.07,92.49,Patient P0460 diagnosed with Obstructive Sleep Apnea.,1
+P0461,38,Male,No Disorder,44.88,85.27,Patient P0461 diagnosed with No Disorder.,1
+P0462,26,Male,Obstructive Sleep Apnea,33.72,89.01,Patient P0462 diagnosed with Obstructive Sleep Apnea.,1
+P0463,25,Male,Narcolepsy,6.85,98.57,Patient P0463 diagnosed with Narcolepsy.,0
+P0464,64,Male,Narcolepsy,49.75,77.07,Patient P0464 diagnosed with Narcolepsy.,1
+P0465,39,Female,Insomnia,26.36,81.35,Patient P0465 diagnosed with Insomnia.,1
+P0466,14,Female,Insomnia,19.59,94.5,Patient P0466 diagnosed with Insomnia.,1
+P0467,57,Female,Insomnia,32.96,77.47,Patient P0467 diagnosed with Insomnia.,1
+P0468,15,Male,Obstructive Sleep Apnea,5.44,76.89,Patient P0468 diagnosed with Obstructive Sleep Apnea.,1
+P0469,25,Male,Narcolepsy,31.83,84.04,Patient P0469 diagnosed with Narcolepsy.,1
+P0470,32,Male,Insomnia,24.91,77.3,Patient P0470 diagnosed with Insomnia.,1
+P0471,19,Female,Narcolepsy,20.33,89.63,Patient P0471 diagnosed with Narcolepsy.,1
+P0472,64,Female,Obstructive Sleep Apnea,47.65,80.66,Patient P0472 diagnosed with Obstructive Sleep Apnea.,1
+P0473,15,Male,No Disorder,26.13,97.39,Patient P0473 diagnosed with No Disorder.,1
+P0474,61,Female,Insomnia,10.96,94.59,Patient P0474 diagnosed with Insomnia.,0
+P0475,21,Male,Obstructive Sleep Apnea,22.95,92.49,Patient P0475 diagnosed with Obstructive Sleep Apnea.,1
+P0476,51,Male,Obstructive Sleep Apnea,45.97,90.42,Patient P0476 diagnosed with Obstructive Sleep Apnea.,1
+P0477,14,Female,Restless Leg Syndrome,8.8,96.59,Patient P0477 diagnosed with Restless Leg Syndrome.,0
+P0478,63,Male,Restless Leg Syndrome,10.7,80.58,Patient P0478 diagnosed with Restless Leg Syndrome.,1
+P0479,21,Female,Narcolepsy,0.65,96.83,Patient P0479 diagnosed with Narcolepsy.,0
+P0480,78,Male,Obstructive Sleep Apnea,0.71,94.74,Patient P0480 diagnosed with Obstructive Sleep Apnea.,0
+P0481,11,Female,Obstructive Sleep Apnea,41.47,93.7,Patient P0481 diagnosed with Obstructive Sleep Apnea.,1
+P0482,73,Female,Insomnia,36.61,89.03,Patient P0482 diagnosed with Insomnia.,1
+P0483,30,Female,Insomnia,17.75,81.16,Patient P0483 diagnosed with Insomnia.,1
+P0484,80,Male,Insomnia,34.92,85.59,Patient P0484 diagnosed with Insomnia.,1
+P0485,54,Male,No Disorder,19.76,94.84,Patient P0485 diagnosed with No Disorder.,1
+P0486,18,Female,No Disorder,47.64,75.79,Patient P0486 diagnosed with No Disorder.,1
+P0487,71,Female,No Disorder,48.35,94.55,Patient P0487 diagnosed with No Disorder.,1
+P0488,14,Male,Narcolepsy,19.64,81.0,Patient P0488 diagnosed with Narcolepsy.,1
+P0489,27,Male,Insomnia,42.71,78.61,Patient P0489 diagnosed with Insomnia.,1
+P0490,54,Male,Insomnia,38.65,77.89,Patient P0490 diagnosed with Insomnia.,1
+P0491,55,Female,Insomnia,15.5,75.68,Patient P0491 diagnosed with Insomnia.,1
+P0492,25,Male,Narcolepsy,11.6,88.09,Patient P0492 diagnosed with Narcolepsy.,1
+P0493,18,Male,Obstructive Sleep Apnea,22.91,80.46,Patient P0493 diagnosed with Obstructive Sleep Apnea.,1
+P0494,59,Female,Insomnia,39.07,99.74,Patient P0494 diagnosed with Insomnia.,1
+P0495,41,Male,Obstructive Sleep Apnea,48.01,89.36,Patient P0495 diagnosed with Obstructive Sleep Apnea.,1
+P0496,55,Male,Insomnia,38.18,78.45,Patient P0496 diagnosed with Insomnia.,1
+P0497,44,Male,Narcolepsy,42.76,92.22,Patient P0497 diagnosed with Narcolepsy.,1
+P0498,60,Female,Narcolepsy,30.15,97.44,Patient P0498 diagnosed with Narcolepsy.,1
+P0499,41,Female,Obstructive Sleep Apnea,41.77,93.63,Patient P0499 diagnosed with Obstructive Sleep Apnea.,1
+P0500,16,Female,No Disorder,39.22,76.91,Patient P0500 diagnosed with No Disorder.,1
+P0501,7,Female,Restless Leg Syndrome,18.85,97.4,Patient P0501 diagnosed with Restless Leg Syndrome.,1
+P0502,37,Female,Obstructive Sleep Apnea,27.6,94.85,Patient P0502 diagnosed with Obstructive Sleep Apnea.,1
+P0503,77,Female,Obstructive Sleep Apnea,40.24,78.96,Patient P0503 diagnosed with Obstructive Sleep Apnea.,1
+P0504,20,Female,Obstructive Sleep Apnea,2.3,76.29,Patient P0504 diagnosed with Obstructive Sleep Apnea.,1
+P0505,78,Male,Obstructive Sleep Apnea,40.4,88.93,Patient P0505 diagnosed with Obstructive Sleep Apnea.,1
+P0506,11,Male,No Disorder,8.89,78.9,Patient P0506 diagnosed with No Disorder.,1
+P0507,76,Female,Insomnia,25.73,95.86,Patient P0507 diagnosed with Insomnia.,1
+P0508,60,Male,Narcolepsy,40.41,83.96,Patient P0508 diagnosed with Narcolepsy.,1
+P0509,19,Male,Insomnia,12.69,97.82,Patient P0509 diagnosed with Insomnia.,0
+P0510,9,Female,Obstructive Sleep Apnea,12.29,89.14,Patient P0510 diagnosed with Obstructive Sleep Apnea.,1
+P0511,48,Male,Insomnia,20.14,79.57,Patient P0511 diagnosed with Insomnia.,1
+P0512,15,Male,Obstructive Sleep Apnea,44.73,78.49,Patient P0512 diagnosed with Obstructive Sleep Apnea.,1
+P0513,42,Male,Insomnia,0.02,89.41,Patient P0513 diagnosed with Insomnia.,1
+P0514,44,Male,No Disorder,45.07,94.05,Patient P0514 diagnosed with No Disorder.,1
+P0515,11,Male,Insomnia,7.69,94.54,Patient P0515 diagnosed with Insomnia.,0
+P0516,52,Female,Restless Leg Syndrome,49.5,81.89,Patient P0516 diagnosed with Restless Leg Syndrome.,1
+P0517,29,Female,Obstructive Sleep Apnea,47.74,80.11,Patient P0517 diagnosed with Obstructive Sleep Apnea.,1
+P0518,68,Female,Obstructive Sleep Apnea,24.73,75.42,Patient P0518 diagnosed with Obstructive Sleep Apnea.,1
+P0519,7,Male,Obstructive Sleep Apnea,25.64,91.98,Patient P0519 diagnosed with Obstructive Sleep Apnea.,1
+P0520,31,Female,Restless Leg Syndrome,24.08,76.91,Patient P0520 diagnosed with Restless Leg Syndrome.,1
+P0521,39,Male,Obstructive Sleep Apnea,31.77,85.52,Patient P0521 diagnosed with Obstructive Sleep Apnea.,1
+P0522,40,Male,Insomnia,4.54,90.04,Patient P0522 diagnosed with Insomnia.,0
+P0523,10,Male,Restless Leg Syndrome,1.63,98.43,Patient P0523 diagnosed with Restless Leg Syndrome.,0
+P0524,67,Male,Insomnia,2.89,82.8,Patient P0524 diagnosed with Insomnia.,1
+P0525,19,Female,Obstructive Sleep Apnea,22.22,81.24,Patient P0525 diagnosed with Obstructive Sleep Apnea.,1
+P0526,73,Female,Obstructive Sleep Apnea,13.78,91.35,Patient P0526 diagnosed with Obstructive Sleep Apnea.,0
+P0527,47,Male,No Disorder,31.1,90.48,Patient P0527 diagnosed with No Disorder.,1
+P0528,6,Female,Restless Leg Syndrome,49.62,83.3,Patient P0528 diagnosed with Restless Leg Syndrome.,1
+P0529,38,Male,Insomnia,19.32,98.2,Patient P0529 diagnosed with Insomnia.,1
+P0530,72,Female,Obstructive Sleep Apnea,28.69,96.12,Patient P0530 diagnosed with Obstructive Sleep Apnea.,1
+P0531,33,Female,No Disorder,20.78,80.6,Patient P0531 diagnosed with No Disorder.,1
+P0532,21,Male,Restless Leg Syndrome,42.36,80.98,Patient P0532 diagnosed with Restless Leg Syndrome.,1
+P0533,63,Female,Insomnia,45.11,87.81,Patient P0533 diagnosed with Insomnia.,1
+P0534,56,Male,Narcolepsy,43.87,94.34,Patient P0534 diagnosed with Narcolepsy.,1
+P0535,41,Female,Obstructive Sleep Apnea,48.72,76.1,Patient P0535 diagnosed with Obstructive Sleep Apnea.,1
+P0536,76,Male,Insomnia,1.38,92.33,Patient P0536 diagnosed with Insomnia.,0
+P0537,21,Male,Restless Leg Syndrome,41.99,91.21,Patient P0537 diagnosed with Restless Leg Syndrome.,1
+P0538,41,Female,Obstructive Sleep Apnea,37.59,80.79,Patient P0538 diagnosed with Obstructive Sleep Apnea.,1
+P0539,69,Female,No Disorder,11.43,92.03,Patient P0539 diagnosed with No Disorder.,0
+P0540,47,Male,Restless Leg Syndrome,47.82,98.5,Patient P0540 diagnosed with Restless Leg Syndrome.,1
+P0541,15,Female,Restless Leg Syndrome,7.41,76.17,Patient P0541 diagnosed with Restless Leg Syndrome.,1
+P0542,60,Female,Obstructive Sleep Apnea,33.98,82.99,Patient P0542 diagnosed with Obstructive Sleep Apnea.,1
+P0543,22,Male,Obstructive Sleep Apnea,11.24,85.95,Patient P0543 diagnosed with Obstructive Sleep Apnea.,1
+P0544,74,Male,Insomnia,21.57,97.48,Patient P0544 diagnosed with Insomnia.,1
+P0545,63,Female,Narcolepsy,35.96,99.06,Patient P0545 diagnosed with Narcolepsy.,1
+P0546,41,Male,Obstructive Sleep Apnea,28.17,86.1,Patient P0546 diagnosed with Obstructive Sleep Apnea.,1
+P0547,3,Male,Insomnia,21.38,93.75,Patient P0547 diagnosed with Insomnia.,1
+P0548,5,Male,Restless Leg Syndrome,16.32,88.29,Patient P0548 diagnosed with Restless Leg Syndrome.,1
+P0549,79,Female,Obstructive Sleep Apnea,41.98,88.44,Patient P0549 diagnosed with Obstructive Sleep Apnea.,1
+P0550,64,Female,Restless Leg Syndrome,7.19,81.95,Patient P0550 diagnosed with Restless Leg Syndrome.,1
+P0551,65,Male,Obstructive Sleep Apnea,21.51,80.42,Patient P0551 diagnosed with Obstructive Sleep Apnea.,1
+P0552,27,Female,No Disorder,45.19,82.2,Patient P0552 diagnosed with No Disorder.,1
+P0553,58,Male,Insomnia,42.29,88.91,Patient P0553 diagnosed with Insomnia.,1
+P0554,35,Female,Obstructive Sleep Apnea,20.05,75.73,Patient P0554 diagnosed with Obstructive Sleep Apnea.,1
+P0555,40,Male,Insomnia,38.16,97.68,Patient P0555 diagnosed with Insomnia.,1
+P0556,8,Male,Insomnia,41.16,78.91,Patient P0556 diagnosed with Insomnia.,1
+P0557,60,Female,Narcolepsy,44.44,80.5,Patient P0557 diagnosed with Narcolepsy.,1
+P0558,46,Male,Restless Leg Syndrome,27.23,87.96,Patient P0558 diagnosed with Restless Leg Syndrome.,1
+P0559,47,Female,Restless Leg Syndrome,10.22,92.75,Patient P0559 diagnosed with Restless Leg Syndrome.,0
+P0560,34,Female,Obstructive Sleep Apnea,12.77,77.39,Patient P0560 diagnosed with Obstructive Sleep Apnea.,1
+P0561,47,Male,Obstructive Sleep Apnea,14.78,82.94,Patient P0561 diagnosed with Obstructive Sleep Apnea.,1
+P0562,63,Male,Obstructive Sleep Apnea,29.69,99.22,Patient P0562 diagnosed with Obstructive Sleep Apnea.,1
+P0563,49,Female,Restless Leg Syndrome,1.64,81.56,Patient P0563 diagnosed with Restless Leg Syndrome.,1
+P0564,23,Male,Narcolepsy,31.8,82.83,Patient P0564 diagnosed with Narcolepsy.,1
+P0565,77,Male,Insomnia,18.22,95.91,Patient P0565 diagnosed with Insomnia.,1
+P0566,38,Male,Obstructive Sleep Apnea,14.76,76.26,Patient P0566 diagnosed with Obstructive Sleep Apnea.,1
+P0567,21,Male,Restless Leg Syndrome,43.97,86.62,Patient P0567 diagnosed with Restless Leg Syndrome.,1
+P0568,22,Male,Narcolepsy,23.0,84.49,Patient P0568 diagnosed with Narcolepsy.,1
+P0569,59,Female,Restless Leg Syndrome,4.75,82.91,Patient P0569 diagnosed with Restless Leg Syndrome.,1
+P0570,20,Female,Narcolepsy,41.34,82.14,Patient P0570 diagnosed with Narcolepsy.,1
+P0571,49,Male,Obstructive Sleep Apnea,2.38,77.28,Patient P0571 diagnosed with Obstructive Sleep Apnea.,1
+P0572,51,Male,Obstructive Sleep Apnea,36.34,82.87,Patient P0572 diagnosed with Obstructive Sleep Apnea.,1
+P0573,16,Male,Narcolepsy,38.7,76.08,Patient P0573 diagnosed with Narcolepsy.,1
+P0574,17,Female,Restless Leg Syndrome,17.63,94.52,Patient P0574 diagnosed with Restless Leg Syndrome.,1
+P0575,33,Male,Insomnia,41.24,84.96,Patient P0575 diagnosed with Insomnia.,1
+P0576,3,Female,Restless Leg Syndrome,25.78,86.1,Patient P0576 diagnosed with Restless Leg Syndrome.,1
+P0577,56,Female,Narcolepsy,23.16,97.34,Patient P0577 diagnosed with Narcolepsy.,1
+P0578,5,Female,Restless Leg Syndrome,2.27,91.45,Patient P0578 diagnosed with Restless Leg Syndrome.,0
+P0579,18,Male,Restless Leg Syndrome,14.5,75.2,Patient P0579 diagnosed with Restless Leg Syndrome.,1
+P0580,59,Female,Insomnia,46.55,98.58,Patient P0580 diagnosed with Insomnia.,1
+P0581,77,Male,Insomnia,19.59,80.93,Patient P0581 diagnosed with Insomnia.,1
+P0582,14,Female,Insomnia,27.34,77.69,Patient P0582 diagnosed with Insomnia.,1
+P0583,76,Male,Narcolepsy,26.6,94.2,Patient P0583 diagnosed with Narcolepsy.,1
+P0584,18,Female,Narcolepsy,29.52,87.51,Patient P0584 diagnosed with Narcolepsy.,1
+P0585,74,Male,Narcolepsy,3.07,85.84,Patient P0585 diagnosed with Narcolepsy.,1
+P0586,78,Female,Obstructive Sleep Apnea,18.11,81.24,Patient P0586 diagnosed with Obstructive Sleep Apnea.,1
+P0587,26,Male,Restless Leg Syndrome,36.16,88.69,Patient P0587 diagnosed with Restless Leg Syndrome.,1
+P0588,30,Male,Narcolepsy,10.03,81.86,Patient P0588 diagnosed with Narcolepsy.,1
+P0589,10,Male,Restless Leg Syndrome,10.18,97.54,Patient P0589 diagnosed with Restless Leg Syndrome.,0
+P0590,38,Male,Narcolepsy,0.5,80.38,Patient P0590 diagnosed with Narcolepsy.,1
+P0591,10,Female,Narcolepsy,21.87,97.11,Patient P0591 diagnosed with Narcolepsy.,1
+P0592,60,Female,Insomnia,44.14,88.99,Patient P0592 diagnosed with Insomnia.,1
+P0593,62,Male,Insomnia,2.6,95.71,Patient P0593 diagnosed with Insomnia.,0
+P0594,52,Female,Obstructive Sleep Apnea,9.56,92.82,Patient P0594 diagnosed with Obstructive Sleep Apnea.,0
+P0595,30,Male,Insomnia,15.5,92.42,Patient P0595 diagnosed with Insomnia.,1
+P0596,43,Male,Restless Leg Syndrome,36.59,83.11,Patient P0596 diagnosed with Restless Leg Syndrome.,1
+P0597,66,Female,Narcolepsy,32.03,80.85,Patient P0597 diagnosed with Narcolepsy.,1
+P0598,29,Male,Obstructive Sleep Apnea,20.8,80.27,Patient P0598 diagnosed with Obstructive Sleep Apnea.,1
+P0599,65,Male,Obstructive Sleep Apnea,37.95,96.43,Patient P0599 diagnosed with Obstructive Sleep Apnea.,1
+P0600,19,Female,Restless Leg Syndrome,30.48,95.51,Patient P0600 diagnosed with Restless Leg Syndrome.,1
+P0601,75,Male,Obstructive Sleep Apnea,44.8,86.01,Patient P0601 diagnosed with Obstructive Sleep Apnea.,1
+P0602,35,Male,Obstructive Sleep Apnea,40.9,78.31,Patient P0602 diagnosed with Obstructive Sleep Apnea.,1
+P0603,79,Male,Obstructive Sleep Apnea,12.64,84.56,Patient P0603 diagnosed with Obstructive Sleep Apnea.,1
+P0604,31,Male,Obstructive Sleep Apnea,13.57,90.48,Patient P0604 diagnosed with Obstructive Sleep Apnea.,0
+P0605,15,Female,Obstructive Sleep Apnea,6.27,86.36,Patient P0605 diagnosed with Obstructive Sleep Apnea.,1
+P0606,48,Female,Insomnia,16.85,94.5,Patient P0606 diagnosed with Insomnia.,1
+P0607,37,Female,Insomnia,49.98,99.94,Patient P0607 diagnosed with Insomnia.,1
+P0608,8,Male,Narcolepsy,20.29,79.78,Patient P0608 diagnosed with Narcolepsy.,1
+P0609,71,Male,Insomnia,11.02,86.49,Patient P0609 diagnosed with Insomnia.,1
+P0610,49,Female,Restless Leg Syndrome,38.12,85.77,Patient P0610 diagnosed with Restless Leg Syndrome.,1
+P0611,27,Male,Obstructive Sleep Apnea,27.12,82.61,Patient P0611 diagnosed with Obstructive Sleep Apnea.,1
+P0612,68,Male,Obstructive Sleep Apnea,7.48,79.95,Patient P0612 diagnosed with Obstructive Sleep Apnea.,1
+P0613,12,Male,Restless Leg Syndrome,19.03,76.64,Patient P0613 diagnosed with Restless Leg Syndrome.,1
+P0614,58,Male,Obstructive Sleep Apnea,20.72,97.18,Patient P0614 diagnosed with Obstructive Sleep Apnea.,1
+P0615,32,Female,Insomnia,37.69,85.5,Patient P0615 diagnosed with Insomnia.,1
+P0616,7,Female,Restless Leg Syndrome,1.03,87.42,Patient P0616 diagnosed with Restless Leg Syndrome.,1
+P0617,35,Female,Restless Leg Syndrome,13.45,97.92,Patient P0617 diagnosed with Restless Leg Syndrome.,0
+P0618,67,Male,Obstructive Sleep Apnea,25.88,94.41,Patient P0618 diagnosed with Obstructive Sleep Apnea.,1
+P0619,20,Female,Insomnia,13.44,78.26,Patient P0619 diagnosed with Insomnia.,1
+P0620,51,Female,Restless Leg Syndrome,31.42,89.14,Patient P0620 diagnosed with Restless Leg Syndrome.,1
+P0621,13,Male,Obstructive Sleep Apnea,24.09,86.06,Patient P0621 diagnosed with Obstructive Sleep Apnea.,1
+P0622,28,Male,Restless Leg Syndrome,18.09,94.93,Patient P0622 diagnosed with Restless Leg Syndrome.,1
+P0623,65,Female,Restless Leg Syndrome,47.46,93.11,Patient P0623 diagnosed with Restless Leg Syndrome.,1
+P0624,61,Female,No Disorder,31.61,92.26,Patient P0624 diagnosed with No Disorder.,1
+P0625,29,Female,Obstructive Sleep Apnea,6.5,83.51,Patient P0625 diagnosed with Obstructive Sleep Apnea.,1
+P0626,51,Female,Narcolepsy,28.0,95.12,Patient P0626 diagnosed with Narcolepsy.,1
+P0627,79,Male,Insomnia,39.04,76.31,Patient P0627 diagnosed with Insomnia.,1
+P0628,35,Female,Insomnia,35.42,78.99,Patient P0628 diagnosed with Insomnia.,1
+P0629,3,Female,Obstructive Sleep Apnea,8.6,83.39,Patient P0629 diagnosed with Obstructive Sleep Apnea.,1
+P0630,23,Male,Restless Leg Syndrome,48.62,76.92,Patient P0630 diagnosed with Restless Leg Syndrome.,1
+P0631,57,Female,Obstructive Sleep Apnea,22.44,80.87,Patient P0631 diagnosed with Obstructive Sleep Apnea.,1
+P0632,8,Male,Insomnia,7.95,95.75,Patient P0632 diagnosed with Insomnia.,0
+P0633,71,Male,Obstructive Sleep Apnea,9.01,98.71,Patient P0633 diagnosed with Obstructive Sleep Apnea.,0
+P0634,7,Male,Narcolepsy,4.91,82.62,Patient P0634 diagnosed with Narcolepsy.,1
+P0635,5,Female,Narcolepsy,40.18,81.61,Patient P0635 diagnosed with Narcolepsy.,1
+P0636,55,Female,Restless Leg Syndrome,6.1,82.0,Patient P0636 diagnosed with Restless Leg Syndrome.,1
+P0637,25,Male,Obstructive Sleep Apnea,6.26,81.94,Patient P0637 diagnosed with Obstructive Sleep Apnea.,1
+P0638,55,Female,Obstructive Sleep Apnea,42.52,75.9,Patient P0638 diagnosed with Obstructive Sleep Apnea.,1
+P0639,39,Female,Restless Leg Syndrome,17.23,98.17,Patient P0639 diagnosed with Restless Leg Syndrome.,1
+P0640,76,Male,Insomnia,1.54,80.34,Patient P0640 diagnosed with Insomnia.,1
+P0641,76,Male,Obstructive Sleep Apnea,2.59,85.5,Patient P0641 diagnosed with Obstructive Sleep Apnea.,1
+P0642,19,Female,Restless Leg Syndrome,7.11,75.24,Patient P0642 diagnosed with Restless Leg Syndrome.,1
+P0643,80,Male,No Disorder,10.67,96.45,Patient P0643 diagnosed with No Disorder.,0
+P0644,75,Female,Restless Leg Syndrome,33.26,93.28,Patient P0644 diagnosed with Restless Leg Syndrome.,1
+P0645,3,Female,Restless Leg Syndrome,7.87,98.67,Patient P0645 diagnosed with Restless Leg Syndrome.,0
+P0646,53,Female,No Disorder,5.94,94.54,Patient P0646 diagnosed with No Disorder.,0
+P0647,47,Female,Obstructive Sleep Apnea,38.24,82.84,Patient P0647 diagnosed with Obstructive Sleep Apnea.,1
+P0648,79,Male,Restless Leg Syndrome,33.55,81.2,Patient P0648 diagnosed with Restless Leg Syndrome.,1
+P0649,6,Male,No Disorder,21.77,92.44,Patient P0649 diagnosed with No Disorder.,1
+P0650,64,Male,Obstructive Sleep Apnea,27.47,84.1,Patient P0650 diagnosed with Obstructive Sleep Apnea.,1
+P0651,67,Male,Restless Leg Syndrome,15.6,89.16,Patient P0651 diagnosed with Restless Leg Syndrome.,1
+P0652,34,Female,Restless Leg Syndrome,24.13,75.16,Patient P0652 diagnosed with Restless Leg Syndrome.,1
+P0653,36,Female,Restless Leg Syndrome,25.33,76.55,Patient P0653 diagnosed with Restless Leg Syndrome.,1
+P0654,74,Male,Restless Leg Syndrome,19.36,88.38,Patient P0654 diagnosed with Restless Leg Syndrome.,1
+P0655,41,Female,No Disorder,45.33,89.15,Patient P0655 diagnosed with No Disorder.,1
+P0656,28,Female,Narcolepsy,0.8,93.79,Patient P0656 diagnosed with Narcolepsy.,0
+P0657,36,Female,Obstructive Sleep Apnea,39.11,78.3,Patient P0657 diagnosed with Obstructive Sleep Apnea.,1
+P0658,56,Male,Narcolepsy,6.22,87.83,Patient P0658 diagnosed with Narcolepsy.,1
+P0659,5,Male,Obstructive Sleep Apnea,39.88,79.86,Patient P0659 diagnosed with Obstructive Sleep Apnea.,1
+P0660,52,Male,Insomnia,30.8,77.33,Patient P0660 diagnosed with Insomnia.,1
+P0661,14,Female,Insomnia,42.16,85.26,Patient P0661 diagnosed with Insomnia.,1
+P0662,67,Male,Insomnia,4.88,79.08,Patient P0662 diagnosed with Insomnia.,1
+P0663,56,Male,Insomnia,27.95,80.54,Patient P0663 diagnosed with Insomnia.,1
+P0664,7,Male,No Disorder,25.05,82.94,Patient P0664 diagnosed with No Disorder.,1
+P0665,59,Male,Restless Leg Syndrome,35.31,81.48,Patient P0665 diagnosed with Restless Leg Syndrome.,1
+P0666,19,Male,Restless Leg Syndrome,26.71,77.19,Patient P0666 diagnosed with Restless Leg Syndrome.,1
+P0667,49,Male,Obstructive Sleep Apnea,27.04,77.25,Patient P0667 diagnosed with Obstructive Sleep Apnea.,1
+P0668,25,Female,No Disorder,21.48,79.83,Patient P0668 diagnosed with No Disorder.,1
+P0669,16,Female,No Disorder,15.44,76.26,Patient P0669 diagnosed with No Disorder.,1
+P0670,68,Male,Narcolepsy,24.11,90.66,Patient P0670 diagnosed with Narcolepsy.,1
+P0671,77,Male,Obstructive Sleep Apnea,5.92,82.18,Patient P0671 diagnosed with Obstructive Sleep Apnea.,1
+P0672,53,Female,Obstructive Sleep Apnea,48.08,81.99,Patient P0672 diagnosed with Obstructive Sleep Apnea.,1
+P0673,40,Female,Obstructive Sleep Apnea,35.72,83.3,Patient P0673 diagnosed with Obstructive Sleep Apnea.,1
+P0674,66,Male,Obstructive Sleep Apnea,47.62,91.57,Patient P0674 diagnosed with Obstructive Sleep Apnea.,1
+P0675,40,Male,Insomnia,11.34,96.77,Patient P0675 diagnosed with Insomnia.,0
+P0676,52,Male,No Disorder,43.97,93.98,Patient P0676 diagnosed with No Disorder.,1
+P0677,32,Male,Insomnia,40.44,93.19,Patient P0677 diagnosed with Insomnia.,1
+P0678,53,Female,Obstructive Sleep Apnea,33.86,87.11,Patient P0678 diagnosed with Obstructive Sleep Apnea.,1
+P0679,65,Male,Obstructive Sleep Apnea,31.25,92.35,Patient P0679 diagnosed with Obstructive Sleep Apnea.,1
+P0680,54,Male,Obstructive Sleep Apnea,15.83,88.82,Patient P0680 diagnosed with Obstructive Sleep Apnea.,1
+P0681,40,Male,Obstructive Sleep Apnea,40.82,80.41,Patient P0681 diagnosed with Obstructive Sleep Apnea.,1
+P0682,32,Male,Obstructive Sleep Apnea,25.08,80.21,Patient P0682 diagnosed with Obstructive Sleep Apnea.,1
+P0683,53,Female,Obstructive Sleep Apnea,3.54,82.41,Patient P0683 diagnosed with Obstructive Sleep Apnea.,1
+P0684,7,Female,Narcolepsy,15.64,97.77,Patient P0684 diagnosed with Narcolepsy.,1
+P0685,31,Female,No Disorder,46.76,88.69,Patient P0685 diagnosed with No Disorder.,1
+P0686,6,Male,Insomnia,42.53,93.35,Patient P0686 diagnosed with Insomnia.,1
+P0687,12,Male,Insomnia,49.1,83.66,Patient P0687 diagnosed with Insomnia.,1
+P0688,58,Female,Narcolepsy,31.4,85.19,Patient P0688 diagnosed with Narcolepsy.,1
+P0689,19,Male,Obstructive Sleep Apnea,12.38,78.14,Patient P0689 diagnosed with Obstructive Sleep Apnea.,1
+P0690,76,Male,Obstructive Sleep Apnea,8.14,79.28,Patient P0690 diagnosed with Obstructive Sleep Apnea.,1
+P0691,19,Female,Narcolepsy,9.35,95.68,Patient P0691 diagnosed with Narcolepsy.,0
+P0692,71,Female,Obstructive Sleep Apnea,0.99,89.62,Patient P0692 diagnosed with Obstructive Sleep Apnea.,1
+P0693,36,Female,Restless Leg Syndrome,19.53,83.44,Patient P0693 diagnosed with Restless Leg Syndrome.,1
+P0694,8,Female,Restless Leg Syndrome,9.57,95.07,Patient P0694 diagnosed with Restless Leg Syndrome.,0
+P0695,55,Male,Insomnia,20.58,81.16,Patient P0695 diagnosed with Insomnia.,1
+P0696,68,Male,Insomnia,46.75,99.4,Patient P0696 diagnosed with Insomnia.,1
+P0697,79,Female,Narcolepsy,21.53,83.62,Patient P0697 diagnosed with Narcolepsy.,1
+P0698,45,Male,Obstructive Sleep Apnea,43.9,83.43,Patient P0698 diagnosed with Obstructive Sleep Apnea.,1
+P0699,77,Female,Obstructive Sleep Apnea,30.28,82.8,Patient P0699 diagnosed with Obstructive Sleep Apnea.,1
+P0700,25,Female,Restless Leg Syndrome,12.36,78.05,Patient P0700 diagnosed with Restless Leg Syndrome.,1
+P0701,57,Male,Insomnia,17.79,77.78,Patient P0701 diagnosed with Insomnia.,1
+P0702,77,Female,Obstructive Sleep Apnea,4.2,91.2,Patient P0702 diagnosed with Obstructive Sleep Apnea.,0
+P0703,18,Male,Narcolepsy,16.67,96.88,Patient P0703 diagnosed with Narcolepsy.,1
+P0704,10,Male,Insomnia,33.88,94.76,Patient P0704 diagnosed with Insomnia.,1
+P0705,6,Male,Narcolepsy,3.61,78.53,Patient P0705 diagnosed with Narcolepsy.,1
+P0706,6,Male,Narcolepsy,10.27,88.64,Patient P0706 diagnosed with Narcolepsy.,1
+P0707,58,Female,Restless Leg Syndrome,19.07,77.64,Patient P0707 diagnosed with Restless Leg Syndrome.,1
+P0708,27,Male,Insomnia,49.1,76.13,Patient P0708 diagnosed with Insomnia.,1
+P0709,69,Female,No Disorder,39.24,91.41,Patient P0709 diagnosed with No Disorder.,1
+P0710,69,Female,Obstructive Sleep Apnea,36.67,88.38,Patient P0710 diagnosed with Obstructive Sleep Apnea.,1
+P0711,29,Female,Restless Leg Syndrome,5.81,77.05,Patient P0711 diagnosed with Restless Leg Syndrome.,1
+P0712,34,Female,Obstructive Sleep Apnea,39.05,75.87,Patient P0712 diagnosed with Obstructive Sleep Apnea.,1
+P0713,52,Male,Insomnia,39.26,99.74,Patient P0713 diagnosed with Insomnia.,1
+P0714,63,Male,Insomnia,30.06,75.75,Patient P0714 diagnosed with Insomnia.,1
+P0715,53,Female,No Disorder,49.52,86.11,Patient P0715 diagnosed with No Disorder.,1
+P0716,21,Female,No Disorder,16.26,87.62,Patient P0716 diagnosed with No Disorder.,1
+P0717,23,Male,Obstructive Sleep Apnea,47.06,77.93,Patient P0717 diagnosed with Obstructive Sleep Apnea.,1
+P0718,7,Female,Obstructive Sleep Apnea,45.74,79.23,Patient P0718 diagnosed with Obstructive Sleep Apnea.,1
+P0719,44,Male,Restless Leg Syndrome,0.57,83.8,Patient P0719 diagnosed with Restless Leg Syndrome.,1
+P0720,63,Female,Insomnia,22.51,94.04,Patient P0720 diagnosed with Insomnia.,1
+P0721,24,Male,Obstructive Sleep Apnea,48.86,87.68,Patient P0721 diagnosed with Obstructive Sleep Apnea.,1
+P0722,23,Female,Restless Leg Syndrome,5.16,90.95,Patient P0722 diagnosed with Restless Leg Syndrome.,0
+P0723,72,Female,Insomnia,27.39,99.63,Patient P0723 diagnosed with Insomnia.,1
+P0724,3,Male,No Disorder,48.95,94.2,Patient P0724 diagnosed with No Disorder.,1
+P0725,7,Female,Obstructive Sleep Apnea,27.77,85.86,Patient P0725 diagnosed with Obstructive Sleep Apnea.,1
+P0726,14,Female,Insomnia,9.49,86.16,Patient P0726 diagnosed with Insomnia.,1
+P0727,48,Male,Insomnia,29.11,90.47,Patient P0727 diagnosed with Insomnia.,1
+P0728,36,Female,Narcolepsy,10.22,91.63,Patient P0728 diagnosed with Narcolepsy.,0
+P0729,51,Male,Insomnia,25.99,87.52,Patient P0729 diagnosed with Insomnia.,1
+P0730,80,Male,Restless Leg Syndrome,3.7,91.12,Patient P0730 diagnosed with Restless Leg Syndrome.,0
+P0731,47,Female,Obstructive Sleep Apnea,30.27,75.59,Patient P0731 diagnosed with Obstructive Sleep Apnea.,1
+P0732,29,Female,Narcolepsy,25.84,85.74,Patient P0732 diagnosed with Narcolepsy.,1
+P0733,75,Female,Insomnia,37.01,81.97,Patient P0733 diagnosed with Insomnia.,1
+P0734,28,Female,Obstructive Sleep Apnea,31.54,78.23,Patient P0734 diagnosed with Obstructive Sleep Apnea.,1
+P0735,49,Female,Restless Leg Syndrome,27.48,77.49,Patient P0735 diagnosed with Restless Leg Syndrome.,1
+P0736,58,Female,Obstructive Sleep Apnea,34.49,90.08,Patient P0736 diagnosed with Obstructive Sleep Apnea.,1
+P0737,65,Female,Obstructive Sleep Apnea,7.2,88.09,Patient P0737 diagnosed with Obstructive Sleep Apnea.,1
+P0738,50,Male,Narcolepsy,29.77,81.34,Patient P0738 diagnosed with Narcolepsy.,1
+P0739,63,Female,Insomnia,8.61,86.77,Patient P0739 diagnosed with Insomnia.,1
+P0740,28,Male,Restless Leg Syndrome,46.28,87.31,Patient P0740 diagnosed with Restless Leg Syndrome.,1
+P0741,38,Female,Obstructive Sleep Apnea,3.42,79.88,Patient P0741 diagnosed with Obstructive Sleep Apnea.,1
+P0742,3,Female,Narcolepsy,21.52,91.3,Patient P0742 diagnosed with Narcolepsy.,1
+P0743,10,Male,Obstructive Sleep Apnea,34.79,94.52,Patient P0743 diagnosed with Obstructive Sleep Apnea.,1
+P0744,54,Female,Insomnia,22.9,94.79,Patient P0744 diagnosed with Insomnia.,1
+P0745,49,Female,No Disorder,4.6,90.06,Patient P0745 diagnosed with No Disorder.,0
+P0746,58,Male,Narcolepsy,27.67,87.79,Patient P0746 diagnosed with Narcolepsy.,1
+P0747,16,Female,Insomnia,32.08,76.53,Patient P0747 diagnosed with Insomnia.,1
+P0748,30,Female,Insomnia,35.19,82.2,Patient P0748 diagnosed with Insomnia.,1
+P0749,80,Female,Narcolepsy,18.66,77.33,Patient P0749 diagnosed with Narcolepsy.,1
+P0750,4,Male,Insomnia,28.18,99.1,Patient P0750 diagnosed with Insomnia.,1
+P0751,28,Female,Narcolepsy,22.53,78.38,Patient P0751 diagnosed with Narcolepsy.,1
+P0752,16,Female,Narcolepsy,33.6,78.79,Patient P0752 diagnosed with Narcolepsy.,1
+P0753,61,Female,Obstructive Sleep Apnea,29.18,97.24,Patient P0753 diagnosed with Obstructive Sleep Apnea.,1
+P0754,58,Female,Obstructive Sleep Apnea,26.29,98.6,Patient P0754 diagnosed with Obstructive Sleep Apnea.,1
+P0755,9,Male,Restless Leg Syndrome,12.48,94.15,Patient P0755 diagnosed with Restless Leg Syndrome.,0
+P0756,5,Male,Obstructive Sleep Apnea,0.1,75.14,Patient P0756 diagnosed with Obstructive Sleep Apnea.,1
+P0757,25,Female,Obstructive Sleep Apnea,8.7,75.03,Patient P0757 diagnosed with Obstructive Sleep Apnea.,1
+P0758,20,Female,No Disorder,5.85,84.45,Patient P0758 diagnosed with No Disorder.,1
+P0759,40,Male,Restless Leg Syndrome,22.45,78.58,Patient P0759 diagnosed with Restless Leg Syndrome.,1
+P0760,17,Male,Narcolepsy,30.61,75.46,Patient P0760 diagnosed with Narcolepsy.,1
+P0761,66,Female,Restless Leg Syndrome,10.65,86.6,Patient P0761 diagnosed with Restless Leg Syndrome.,1
+P0762,30,Male,Restless Leg Syndrome,46.95,98.58,Patient P0762 diagnosed with Restless Leg Syndrome.,1
+P0763,76,Female,Obstructive Sleep Apnea,0.33,83.1,Patient P0763 diagnosed with Obstructive Sleep Apnea.,1
+P0764,41,Male,Insomnia,38.62,91.53,Patient P0764 diagnosed with Insomnia.,1
+P0765,59,Male,Obstructive Sleep Apnea,31.26,91.31,Patient P0765 diagnosed with Obstructive Sleep Apnea.,1
+P0766,19,Male,Insomnia,18.68,81.28,Patient P0766 diagnosed with Insomnia.,1
+P0767,46,Male,Narcolepsy,2.52,91.26,Patient P0767 diagnosed with Narcolepsy.,0
+P0768,27,Female,Insomnia,31.37,80.31,Patient P0768 diagnosed with Insomnia.,1
+P0769,19,Male,Insomnia,19.28,78.05,Patient P0769 diagnosed with Insomnia.,1
+P0770,15,Male,Insomnia,46.81,92.53,Patient P0770 diagnosed with Insomnia.,1
+P0771,27,Female,Obstructive Sleep Apnea,27.1,77.84,Patient P0771 diagnosed with Obstructive Sleep Apnea.,1
+P0772,70,Male,Insomnia,46.98,99.92,Patient P0772 diagnosed with Insomnia.,1
+P0773,12,Male,Obstructive Sleep Apnea,11.02,79.59,Patient P0773 diagnosed with Obstructive Sleep Apnea.,1
+P0774,69,Female,Obstructive Sleep Apnea,36.29,89.85,Patient P0774 diagnosed with Obstructive Sleep Apnea.,1
+P0775,20,Male,Obstructive Sleep Apnea,30.86,85.28,Patient P0775 diagnosed with Obstructive Sleep Apnea.,1
+P0776,36,Female,Insomnia,36.97,78.16,Patient P0776 diagnosed with Insomnia.,1
+P0777,10,Female,Narcolepsy,10.73,75.7,Patient P0777 diagnosed with Narcolepsy.,1
+P0778,42,Female,Obstructive Sleep Apnea,33.25,90.57,Patient P0778 diagnosed with Obstructive Sleep Apnea.,1
+P0779,44,Female,Insomnia,24.9,95.17,Patient P0779 diagnosed with Insomnia.,1
+P0780,43,Male,Restless Leg Syndrome,37.14,96.05,Patient P0780 diagnosed with Restless Leg Syndrome.,1
+P0781,8,Female,Obstructive Sleep Apnea,16.35,87.07,Patient P0781 diagnosed with Obstructive Sleep Apnea.,1
+P0782,54,Male,Narcolepsy,44.5,94.44,Patient P0782 diagnosed with Narcolepsy.,1
+P0783,28,Male,Insomnia,4.22,91.82,Patient P0783 diagnosed with Insomnia.,0
+P0784,66,Male,Insomnia,40.36,93.11,Patient P0784 diagnosed with Insomnia.,1
+P0785,61,Male,Restless Leg Syndrome,43.07,87.31,Patient P0785 diagnosed with Restless Leg Syndrome.,1
+P0786,58,Male,Obstructive Sleep Apnea,40.86,90.84,Patient P0786 diagnosed with Obstructive Sleep Apnea.,1
+P0787,61,Male,Restless Leg Syndrome,25.64,95.14,Patient P0787 diagnosed with Restless Leg Syndrome.,1
+P0788,72,Male,Insomnia,21.92,84.95,Patient P0788 diagnosed with Insomnia.,1
+P0789,35,Male,Narcolepsy,49.81,95.15,Patient P0789 diagnosed with Narcolepsy.,1
+P0790,55,Male,Obstructive Sleep Apnea,11.46,89.8,Patient P0790 diagnosed with Obstructive Sleep Apnea.,1
+P0791,24,Male,Insomnia,27.34,79.15,Patient P0791 diagnosed with Insomnia.,1
+P0792,23,Female,Restless Leg Syndrome,33.53,75.62,Patient P0792 diagnosed with Restless Leg Syndrome.,1
+P0793,72,Female,Obstructive Sleep Apnea,35.04,84.07,Patient P0793 diagnosed with Obstructive Sleep Apnea.,1
+P0794,72,Female,Insomnia,10.2,88.67,Patient P0794 diagnosed with Insomnia.,1
+P0795,6,Male,Restless Leg Syndrome,32.7,96.0,Patient P0795 diagnosed with Restless Leg Syndrome.,1
+P0796,77,Female,Narcolepsy,40.92,78.19,Patient P0796 diagnosed with Narcolepsy.,1
+P0797,64,Female,Insomnia,2.5,95.01,Patient P0797 diagnosed with Insomnia.,0
+P0798,64,Female,Narcolepsy,45.58,96.58,Patient P0798 diagnosed with Narcolepsy.,1
+P0799,26,Male,No Disorder,1.48,78.77,Patient P0799 diagnosed with No Disorder.,1
+P0800,57,Male,Narcolepsy,17.8,96.29,Patient P0800 diagnosed with Narcolepsy.,1
+P0801,11,Male,Obstructive Sleep Apnea,0.79,99.79,Patient P0801 diagnosed with Obstructive Sleep Apnea.,0
+P0802,5,Male,Restless Leg Syndrome,3.86,93.17,Patient P0802 diagnosed with Restless Leg Syndrome.,0
+P0803,33,Female,Insomnia,45.56,94.62,Patient P0803 diagnosed with Insomnia.,1
+P0804,42,Female,No Disorder,17.74,99.86,Patient P0804 diagnosed with No Disorder.,1
+P0805,38,Female,Insomnia,21.24,90.14,Patient P0805 diagnosed with Insomnia.,1
+P0806,26,Female,Obstructive Sleep Apnea,10.77,82.7,Patient P0806 diagnosed with Obstructive Sleep Apnea.,1
+P0807,8,Male,Restless Leg Syndrome,29.85,95.94,Patient P0807 diagnosed with Restless Leg Syndrome.,1
+P0808,68,Male,Insomnia,29.74,90.36,Patient P0808 diagnosed with Insomnia.,1
+P0809,77,Male,No Disorder,18.61,89.53,Patient P0809 diagnosed with No Disorder.,1
+P0810,6,Female,No Disorder,16.65,81.34,Patient P0810 diagnosed with No Disorder.,1
+P0811,8,Male,Restless Leg Syndrome,44.25,93.91,Patient P0811 diagnosed with Restless Leg Syndrome.,1
+P0812,53,Male,Obstructive Sleep Apnea,19.16,77.04,Patient P0812 diagnosed with Obstructive Sleep Apnea.,1
+P0813,64,Female,Restless Leg Syndrome,24.68,98.11,Patient P0813 diagnosed with Restless Leg Syndrome.,1
+P0814,59,Female,Obstructive Sleep Apnea,14.17,83.15,Patient P0814 diagnosed with Obstructive Sleep Apnea.,1
+P0815,68,Male,Obstructive Sleep Apnea,39.34,78.19,Patient P0815 diagnosed with Obstructive Sleep Apnea.,1
+P0816,77,Male,Narcolepsy,19.87,86.06,Patient P0816 diagnosed with Narcolepsy.,1
+P0817,10,Male,Obstructive Sleep Apnea,25.68,76.06,Patient P0817 diagnosed with Obstructive Sleep Apnea.,1
+P0818,28,Male,Insomnia,12.67,92.12,Patient P0818 diagnosed with Insomnia.,0
+P0819,53,Male,No Disorder,49.38,97.57,Patient P0819 diagnosed with No Disorder.,1
+P0820,47,Male,Insomnia,14.57,95.93,Patient P0820 diagnosed with Insomnia.,0
+P0821,46,Female,Obstructive Sleep Apnea,38.54,78.18,Patient P0821 diagnosed with Obstructive Sleep Apnea.,1
+P0822,7,Female,No Disorder,21.37,78.16,Patient P0822 diagnosed with No Disorder.,1
+P0823,72,Female,Obstructive Sleep Apnea,10.31,95.34,Patient P0823 diagnosed with Obstructive Sleep Apnea.,0
+P0824,28,Male,Narcolepsy,39.99,98.11,Patient P0824 diagnosed with Narcolepsy.,1
+P0825,70,Female,No Disorder,16.68,86.52,Patient P0825 diagnosed with No Disorder.,1
+P0826,21,Male,No Disorder,43.26,87.47,Patient P0826 diagnosed with No Disorder.,1
+P0827,22,Male,Restless Leg Syndrome,45.76,82.96,Patient P0827 diagnosed with Restless Leg Syndrome.,1
+P0828,14,Female,Insomnia,42.99,97.36,Patient P0828 diagnosed with Insomnia.,1
+P0829,49,Male,Obstructive Sleep Apnea,1.75,91.12,Patient P0829 diagnosed with Obstructive Sleep Apnea.,0
+P0830,3,Male,Narcolepsy,39.37,82.21,Patient P0830 diagnosed with Narcolepsy.,1
+P0831,16,Female,Narcolepsy,20.57,82.47,Patient P0831 diagnosed with Narcolepsy.,1
+P0832,66,Female,Insomnia,43.69,97.28,Patient P0832 diagnosed with Insomnia.,1
+P0833,40,Female,Obstructive Sleep Apnea,31.9,75.34,Patient P0833 diagnosed with Obstructive Sleep Apnea.,1
+P0834,39,Male,Obstructive Sleep Apnea,41.68,83.07,Patient P0834 diagnosed with Obstructive Sleep Apnea.,1
+P0835,13,Female,Obstructive Sleep Apnea,24.97,88.86,Patient P0835 diagnosed with Obstructive Sleep Apnea.,1
+P0836,79,Female,Restless Leg Syndrome,26.75,78.71,Patient P0836 diagnosed with Restless Leg Syndrome.,1
+P0837,5,Male,Insomnia,7.22,77.3,Patient P0837 diagnosed with Insomnia.,1
+P0838,35,Female,No Disorder,39.2,95.38,Patient P0838 diagnosed with No Disorder.,1
+P0839,8,Female,Restless Leg Syndrome,20.97,97.36,Patient P0839 diagnosed with Restless Leg Syndrome.,1
+P0840,52,Female,Obstructive Sleep Apnea,25.0,95.59,Patient P0840 diagnosed with Obstructive Sleep Apnea.,1
+P0841,12,Male,Restless Leg Syndrome,39.25,97.47,Patient P0841 diagnosed with Restless Leg Syndrome.,1
+P0842,7,Male,Insomnia,29.94,88.83,Patient P0842 diagnosed with Insomnia.,1
+P0843,25,Male,Restless Leg Syndrome,10.05,95.31,Patient P0843 diagnosed with Restless Leg Syndrome.,0
+P0844,12,Male,Restless Leg Syndrome,29.51,84.6,Patient P0844 diagnosed with Restless Leg Syndrome.,1
+P0845,46,Female,Narcolepsy,20.38,91.66,Patient P0845 diagnosed with Narcolepsy.,1
+P0846,4,Male,Narcolepsy,23.48,99.72,Patient P0846 diagnosed with Narcolepsy.,1
+P0847,15,Male,Obstructive Sleep Apnea,1.42,80.64,Patient P0847 diagnosed with Obstructive Sleep Apnea.,1
+P0848,42,Female,Obstructive Sleep Apnea,10.5,84.75,Patient P0848 diagnosed with Obstructive Sleep Apnea.,1
+P0849,4,Female,Restless Leg Syndrome,14.05,87.0,Patient P0849 diagnosed with Restless Leg Syndrome.,1
+P0850,67,Female,Obstructive Sleep Apnea,35.65,78.45,Patient P0850 diagnosed with Obstructive Sleep Apnea.,1
+P0851,65,Male,Insomnia,0.57,77.03,Patient P0851 diagnosed with Insomnia.,1
+P0852,75,Male,Obstructive Sleep Apnea,20.44,95.74,Patient P0852 diagnosed with Obstructive Sleep Apnea.,1
+P0853,19,Male,Restless Leg Syndrome,46.2,99.42,Patient P0853 diagnosed with Restless Leg Syndrome.,1
+P0854,11,Female,Obstructive Sleep Apnea,5.59,85.12,Patient P0854 diagnosed with Obstructive Sleep Apnea.,1
+P0855,77,Female,Restless Leg Syndrome,25.82,77.19,Patient P0855 diagnosed with Restless Leg Syndrome.,1
+P0856,17,Male,No Disorder,39.33,76.65,Patient P0856 diagnosed with No Disorder.,1
+P0857,26,Female,Obstructive Sleep Apnea,47.13,97.28,Patient P0857 diagnosed with Obstructive Sleep Apnea.,1
+P0858,40,Female,Obstructive Sleep Apnea,37.34,86.6,Patient P0858 diagnosed with Obstructive Sleep Apnea.,1
+P0859,37,Female,Insomnia,36.03,83.0,Patient P0859 diagnosed with Insomnia.,1
+P0860,51,Male,Narcolepsy,41.32,86.91,Patient P0860 diagnosed with Narcolepsy.,1
+P0861,71,Female,Obstructive Sleep Apnea,22.31,82.96,Patient P0861 diagnosed with Obstructive Sleep Apnea.,1
+P0862,64,Female,Insomnia,40.29,87.23,Patient P0862 diagnosed with Insomnia.,1
+P0863,62,Male,Obstructive Sleep Apnea,0.4,96.49,Patient P0863 diagnosed with Obstructive Sleep Apnea.,0
+P0864,52,Male,Narcolepsy,46.23,89.81,Patient P0864 diagnosed with Narcolepsy.,1
+P0865,80,Female,Insomnia,22.17,92.37,Patient P0865 diagnosed with Insomnia.,1
+P0866,77,Female,Narcolepsy,27.67,84.12,Patient P0866 diagnosed with Narcolepsy.,1
+P0867,11,Male,No Disorder,12.74,93.46,Patient P0867 diagnosed with No Disorder.,0
+P0868,36,Male,Obstructive Sleep Apnea,37.13,91.67,Patient P0868 diagnosed with Obstructive Sleep Apnea.,1
+P0869,78,Female,Narcolepsy,3.83,77.99,Patient P0869 diagnosed with Narcolepsy.,1
+P0870,37,Female,Obstructive Sleep Apnea,43.63,89.32,Patient P0870 diagnosed with Obstructive Sleep Apnea.,1
+P0871,3,Female,Narcolepsy,41.41,81.42,Patient P0871 diagnosed with Narcolepsy.,1
+P0872,42,Female,Restless Leg Syndrome,10.8,95.1,Patient P0872 diagnosed with Restless Leg Syndrome.,0
+P0873,66,Male,Narcolepsy,40.47,85.65,Patient P0873 diagnosed with Narcolepsy.,1
+P0874,24,Female,Obstructive Sleep Apnea,39.32,99.87,Patient P0874 diagnosed with Obstructive Sleep Apnea.,1
+P0875,62,Female,Obstructive Sleep Apnea,31.61,77.31,Patient P0875 diagnosed with Obstructive Sleep Apnea.,1
+P0876,66,Male,Insomnia,18.68,94.51,Patient P0876 diagnosed with Insomnia.,1
+P0877,74,Female,Insomnia,13.57,91.84,Patient P0877 diagnosed with Insomnia.,0
+P0878,13,Male,Obstructive Sleep Apnea,11.59,94.19,Patient P0878 diagnosed with Obstructive Sleep Apnea.,0
+P0879,16,Female,Insomnia,15.93,82.69,Patient P0879 diagnosed with Insomnia.,1
+P0880,62,Female,Obstructive Sleep Apnea,45.18,87.3,Patient P0880 diagnosed with Obstructive Sleep Apnea.,1
+P0881,32,Male,Insomnia,3.88,94.91,Patient P0881 diagnosed with Insomnia.,0
+P0882,37,Male,Narcolepsy,41.44,80.81,Patient P0882 diagnosed with Narcolepsy.,1
+P0883,39,Female,Insomnia,17.44,80.65,Patient P0883 diagnosed with Insomnia.,1
+P0884,7,Female,Obstructive Sleep Apnea,26.08,88.78,Patient P0884 diagnosed with Obstructive Sleep Apnea.,1
+P0885,80,Female,Insomnia,39.72,88.09,Patient P0885 diagnosed with Insomnia.,1
+P0886,28,Male,Obstructive Sleep Apnea,44.22,82.06,Patient P0886 diagnosed with Obstructive Sleep Apnea.,1
+P0887,64,Female,No Disorder,17.24,82.45,Patient P0887 diagnosed with No Disorder.,1
+P0888,6,Male,Obstructive Sleep Apnea,23.09,81.95,Patient P0888 diagnosed with Obstructive Sleep Apnea.,1
+P0889,44,Male,Restless Leg Syndrome,20.73,94.29,Patient P0889 diagnosed with Restless Leg Syndrome.,1
+P0890,20,Female,No Disorder,0.66,91.3,Patient P0890 diagnosed with No Disorder.,0
+P0891,42,Male,Narcolepsy,14.8,95.81,Patient P0891 diagnosed with Narcolepsy.,0
+P0892,74,Female,Restless Leg Syndrome,22.96,99.39,Patient P0892 diagnosed with Restless Leg Syndrome.,1
+P0893,41,Female,Narcolepsy,20.55,86.85,Patient P0893 diagnosed with Narcolepsy.,1
+P0894,16,Female,No Disorder,36.1,76.67,Patient P0894 diagnosed with No Disorder.,1
+P0895,34,Female,Restless Leg Syndrome,19.24,76.2,Patient P0895 diagnosed with Restless Leg Syndrome.,1
+P0896,53,Female,Restless Leg Syndrome,24.47,82.39,Patient P0896 diagnosed with Restless Leg Syndrome.,1
+P0897,40,Male,Restless Leg Syndrome,21.48,98.31,Patient P0897 diagnosed with Restless Leg Syndrome.,1
+P0898,25,Male,Insomnia,37.03,88.08,Patient P0898 diagnosed with Insomnia.,1
+P0899,65,Female,Restless Leg Syndrome,43.15,81.79,Patient P0899 diagnosed with Restless Leg Syndrome.,1
+P0900,17,Female,Insomnia,26.59,84.98,Patient P0900 diagnosed with Insomnia.,1
+P0901,27,Male,Obstructive Sleep Apnea,39.47,89.96,Patient P0901 diagnosed with Obstructive Sleep Apnea.,1
+P0902,19,Male,Obstructive Sleep Apnea,14.84,91.32,Patient P0902 diagnosed with Obstructive Sleep Apnea.,0
+P0903,68,Male,Obstructive Sleep Apnea,27.07,78.85,Patient P0903 diagnosed with Obstructive Sleep Apnea.,1
+P0904,80,Male,Obstructive Sleep Apnea,17.26,99.43,Patient P0904 diagnosed with Obstructive Sleep Apnea.,1
+P0905,55,Female,Obstructive Sleep Apnea,20.71,88.62,Patient P0905 diagnosed with Obstructive Sleep Apnea.,1
+P0906,53,Female,Restless Leg Syndrome,36.62,78.39,Patient P0906 diagnosed with Restless Leg Syndrome.,1
+P0907,41,Male,Obstructive Sleep Apnea,44.08,97.34,Patient P0907 diagnosed with Obstructive Sleep Apnea.,1
+P0908,53,Female,Narcolepsy,6.07,76.87,Patient P0908 diagnosed with Narcolepsy.,1
+P0909,72,Male,Obstructive Sleep Apnea,31.73,97.69,Patient P0909 diagnosed with Obstructive Sleep Apnea.,1
+P0910,8,Female,Obstructive Sleep Apnea,29.11,99.91,Patient P0910 diagnosed with Obstructive Sleep Apnea.,1
+P0911,69,Male,Restless Leg Syndrome,5.92,92.51,Patient P0911 diagnosed with Restless Leg Syndrome.,0
+P0912,9,Female,Restless Leg Syndrome,10.59,94.26,Patient P0912 diagnosed with Restless Leg Syndrome.,0
+P0913,53,Male,Obstructive Sleep Apnea,15.55,83.43,Patient P0913 diagnosed with Obstructive Sleep Apnea.,1
+P0914,74,Male,Narcolepsy,8.35,98.54,Patient P0914 diagnosed with Narcolepsy.,0
+P0915,44,Female,Narcolepsy,12.19,88.24,Patient P0915 diagnosed with Narcolepsy.,1
+P0916,66,Male,Insomnia,13.38,93.31,Patient P0916 diagnosed with Insomnia.,0
+P0917,17,Female,Insomnia,16.78,98.1,Patient P0917 diagnosed with Insomnia.,1
+P0918,31,Female,No Disorder,37.47,99.38,Patient P0918 diagnosed with No Disorder.,1
+P0919,35,Male,Restless Leg Syndrome,28.6,95.83,Patient P0919 diagnosed with Restless Leg Syndrome.,1
+P0920,29,Female,Insomnia,49.31,82.58,Patient P0920 diagnosed with Insomnia.,1
+P0921,38,Female,Narcolepsy,20.74,99.16,Patient P0921 diagnosed with Narcolepsy.,1
+P0922,31,Female,Obstructive Sleep Apnea,37.69,90.7,Patient P0922 diagnosed with Obstructive Sleep Apnea.,1
+P0923,40,Female,Insomnia,43.57,98.27,Patient P0923 diagnosed with Insomnia.,1
+P0924,59,Female,Obstructive Sleep Apnea,33.95,91.9,Patient P0924 diagnosed with Obstructive Sleep Apnea.,1
+P0925,29,Male,Narcolepsy,20.59,82.68,Patient P0925 diagnosed with Narcolepsy.,1
+P0926,57,Female,Restless Leg Syndrome,37.68,84.25,Patient P0926 diagnosed with Restless Leg Syndrome.,1
+P0927,35,Female,Restless Leg Syndrome,10.18,88.76,Patient P0927 diagnosed with Restless Leg Syndrome.,1
+P0928,70,Female,Obstructive Sleep Apnea,16.38,94.75,Patient P0928 diagnosed with Obstructive Sleep Apnea.,1
+P0929,68,Female,Obstructive Sleep Apnea,27.33,82.95,Patient P0929 diagnosed with Obstructive Sleep Apnea.,1
+P0930,12,Female,Insomnia,28.77,89.49,Patient P0930 diagnosed with Insomnia.,1
+P0931,7,Male,Restless Leg Syndrome,1.11,83.64,Patient P0931 diagnosed with Restless Leg Syndrome.,1
+P0932,76,Female,Insomnia,47.26,95.39,Patient P0932 diagnosed with Insomnia.,1
+P0933,40,Male,Obstructive Sleep Apnea,34.83,86.67,Patient P0933 diagnosed with Obstructive Sleep Apnea.,1
+P0934,15,Male,Narcolepsy,24.79,76.92,Patient P0934 diagnosed with Narcolepsy.,1
+P0935,33,Male,Obstructive Sleep Apnea,46.66,79.15,Patient P0935 diagnosed with Obstructive Sleep Apnea.,1
+P0936,49,Male,No Disorder,21.95,76.53,Patient P0936 diagnosed with No Disorder.,1
+P0937,54,Female,Obstructive Sleep Apnea,49.02,87.48,Patient P0937 diagnosed with Obstructive Sleep Apnea.,1
+P0938,58,Male,Restless Leg Syndrome,25.61,77.66,Patient P0938 diagnosed with Restless Leg Syndrome.,1
+P0939,17,Male,Obstructive Sleep Apnea,5.71,77.85,Patient P0939 diagnosed with Obstructive Sleep Apnea.,1
+P0940,31,Female,No Disorder,38.24,98.53,Patient P0940 diagnosed with No Disorder.,1
+P0941,10,Female,Insomnia,33.94,96.82,Patient P0941 diagnosed with Insomnia.,1
+P0942,7,Female,Obstructive Sleep Apnea,38.65,86.3,Patient P0942 diagnosed with Obstructive Sleep Apnea.,1
+P0943,31,Male,Insomnia,47.57,99.65,Patient P0943 diagnosed with Insomnia.,1
+P0944,49,Female,Obstructive Sleep Apnea,38.82,75.0,Patient P0944 diagnosed with Obstructive Sleep Apnea.,1
+P0945,70,Female,Obstructive Sleep Apnea,30.57,90.35,Patient P0945 diagnosed with Obstructive Sleep Apnea.,1
+P0946,78,Male,No Disorder,42.87,90.41,Patient P0946 diagnosed with No Disorder.,1
+P0947,47,Female,Insomnia,33.66,86.44,Patient P0947 diagnosed with Insomnia.,1
+P0948,4,Female,Narcolepsy,20.41,84.92,Patient P0948 diagnosed with Narcolepsy.,1
+P0949,29,Female,Restless Leg Syndrome,44.28,86.38,Patient P0949 diagnosed with Restless Leg Syndrome.,1
+P0950,38,Female,Restless Leg Syndrome,11.1,85.37,Patient P0950 diagnosed with Restless Leg Syndrome.,1
+P0951,38,Male,Obstructive Sleep Apnea,35.73,93.26,Patient P0951 diagnosed with Obstructive Sleep Apnea.,1
+P0952,28,Female,Obstructive Sleep Apnea,44.08,78.38,Patient P0952 diagnosed with Obstructive Sleep Apnea.,1
+P0953,45,Female,Narcolepsy,36.57,79.94,Patient P0953 diagnosed with Narcolepsy.,1
+P0954,29,Male,No Disorder,34.86,79.51,Patient P0954 diagnosed with No Disorder.,1
+P0955,71,Female,Obstructive Sleep Apnea,37.63,81.56,Patient P0955 diagnosed with Obstructive Sleep Apnea.,1
+P0956,22,Male,Obstructive Sleep Apnea,23.25,88.13,Patient P0956 diagnosed with Obstructive Sleep Apnea.,1
+P0957,13,Female,Insomnia,43.71,77.78,Patient P0957 diagnosed with Insomnia.,1
+P0958,76,Male,No Disorder,10.17,96.7,Patient P0958 diagnosed with No Disorder.,0
+P0959,40,Male,Obstructive Sleep Apnea,6.37,82.43,Patient P0959 diagnosed with Obstructive Sleep Apnea.,1
+P0960,8,Male,Insomnia,14.28,79.06,Patient P0960 diagnosed with Insomnia.,1
+P0961,74,Male,Narcolepsy,26.58,91.89,Patient P0961 diagnosed with Narcolepsy.,1
+P0962,25,Female,Obstructive Sleep Apnea,25.53,75.95,Patient P0962 diagnosed with Obstructive Sleep Apnea.,1
+P0963,49,Male,Obstructive Sleep Apnea,41.03,90.5,Patient P0963 diagnosed with Obstructive Sleep Apnea.,1
+P0964,48,Female,Restless Leg Syndrome,20.23,92.45,Patient P0964 diagnosed with Restless Leg Syndrome.,1
+P0965,14,Male,No Disorder,24.22,80.37,Patient P0965 diagnosed with No Disorder.,1
+P0966,15,Male,Obstructive Sleep Apnea,0.67,76.05,Patient P0966 diagnosed with Obstructive Sleep Apnea.,1
+P0967,64,Male,Insomnia,20.49,84.09,Patient P0967 diagnosed with Insomnia.,1
+P0968,62,Female,Insomnia,32.39,77.46,Patient P0968 diagnosed with Insomnia.,1
+P0969,45,Male,Insomnia,0.78,77.91,Patient P0969 diagnosed with Insomnia.,1
+P0970,78,Female,Restless Leg Syndrome,14.04,81.36,Patient P0970 diagnosed with Restless Leg Syndrome.,1
+P0971,70,Female,Insomnia,10.4,82.39,Patient P0971 diagnosed with Insomnia.,1
+P0972,7,Female,Insomnia,2.1,88.25,Patient P0972 diagnosed with Insomnia.,1
+P0973,39,Female,Insomnia,23.96,91.96,Patient P0973 diagnosed with Insomnia.,1
+P0974,74,Female,Restless Leg Syndrome,9.09,89.82,Patient P0974 diagnosed with Restless Leg Syndrome.,1
+P0975,33,Female,Insomnia,37.15,78.71,Patient P0975 diagnosed with Insomnia.,1
+P0976,11,Female,Narcolepsy,42.4,79.3,Patient P0976 diagnosed with Narcolepsy.,1
+P0977,53,Female,Obstructive Sleep Apnea,27.28,96.97,Patient P0977 diagnosed with Obstructive Sleep Apnea.,1
+P0978,31,Female,Narcolepsy,49.09,88.96,Patient P0978 diagnosed with Narcolepsy.,1
+P0979,80,Male,Narcolepsy,22.52,96.75,Patient P0979 diagnosed with Narcolepsy.,1
+P0980,42,Male,Obstructive Sleep Apnea,25.67,84.29,Patient P0980 diagnosed with Obstructive Sleep Apnea.,1
+P0981,43,Male,Insomnia,49.46,90.36,Patient P0981 diagnosed with Insomnia.,1
+P0982,13,Male,Insomnia,11.58,88.09,Patient P0982 diagnosed with Insomnia.,1
+P0983,25,Male,Obstructive Sleep Apnea,47.13,82.98,Patient P0983 diagnosed with Obstructive Sleep Apnea.,1
+P0984,3,Female,Insomnia,2.14,86.75,Patient P0984 diagnosed with Insomnia.,1
+P0985,48,Female,Obstructive Sleep Apnea,22.32,87.56,Patient P0985 diagnosed with Obstructive Sleep Apnea.,1
+P0986,23,Female,Obstructive Sleep Apnea,3.5,80.02,Patient P0986 diagnosed with Obstructive Sleep Apnea.,1
+P0987,38,Female,Narcolepsy,36.46,82.88,Patient P0987 diagnosed with Narcolepsy.,1
+P0988,56,Female,Obstructive Sleep Apnea,30.42,94.79,Patient P0988 diagnosed with Obstructive Sleep Apnea.,1
+P0989,59,Female,Narcolepsy,35.33,97.89,Patient P0989 diagnosed with Narcolepsy.,1
+P0990,3,Female,Insomnia,18.72,83.99,Patient P0990 diagnosed with Insomnia.,1
+P0991,65,Male,Narcolepsy,18.47,82.67,Patient P0991 diagnosed with Narcolepsy.,1
+P0992,56,Male,Restless Leg Syndrome,2.27,79.88,Patient P0992 diagnosed with Restless Leg Syndrome.,1
+P0993,57,Male,Obstructive Sleep Apnea,17.5,91.96,Patient P0993 diagnosed with Obstructive Sleep Apnea.,1
+P0994,42,Male,Restless Leg Syndrome,46.46,83.08,Patient P0994 diagnosed with Restless Leg Syndrome.,1
+P0995,17,Female,Obstructive Sleep Apnea,18.96,99.69,Patient P0995 diagnosed with Obstructive Sleep Apnea.,1
+P0996,23,Female,Insomnia,41.57,83.14,Patient P0996 diagnosed with Insomnia.,1
+P0997,49,Female,No Disorder,42.12,84.85,Patient P0997 diagnosed with No Disorder.,1
+P0998,75,Male,Obstructive Sleep Apnea,18.66,90.08,Patient P0998 diagnosed with Obstructive Sleep Apnea.,1
+P0999,55,Female,Insomnia,31.6,95.04,Patient P0999 diagnosed with Insomnia.,1
+P1000,11,Female,Restless Leg Syndrome,4.77,86.74,Patient P1000 diagnosed with Restless Leg Syndrome.,1
