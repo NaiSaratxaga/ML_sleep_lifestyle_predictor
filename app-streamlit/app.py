@@ -1,4 +1,7 @@
-# App web con Streamlit (súper fácil de usar)
+
+
+# Diseño o App sencilla para mostrar resultados
+# App web con Streamlit 
 
 import streamlit as st
 import joblib
