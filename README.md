@@ -24,10 +24,22 @@ A través de técnicas de análisis exploratorio de datos (EDA) y algoritmos de 
 
 Incluye las siguientes variables:
 
-- Edad, Género, Ocupación  
-- Duración y Calidad del Sueño, Nivel de Actividad Física  
-- Nivel de Estrés, IMC, Presión Arterial, Frecuencia Cardíaca, Pasos Diarios  
-- **Sleep_Disorder** (variable objetivo: sin trastorno, insomnio, apnea, narcolepsia)
+- **Patient_ID**	Identificador único de cada persona.
+- **Age**	Edad del paciente (en años).
+- **Gender**	Género de la persona (Male o Female).
+- **Sleep_Disorder_Type** Diagnóstico del trastorno del sueño del paciente (categórico, con varias categorías como Apnea del Sueño, Insomnio, Narcolepsia, etc.).
+- **AHI_Score** Puntaje del índice Apnea-Hipopnea del paciente (numérico).
+- **SaO2_Level** Nivel de saturación de oxígeno en sangre del paciente (numérico).
+- **OCR_Extracted_Text** Texto extraído mediante OCR de los documentos médicos escaneados (texto). **Necesita NPL para su análisis (Procesamiento de lenguaje natural)**
+- **Diagnosis_Confirmed** Columna binaria que indica si el diagnóstico de trastorno del sueño está confirmado (1 para confirmado, 0 para no confirmado).
+
+Tipos de trastornos
+- Restless Leg Syndrome → Síndrome de Piernas Inquietas. Trastorno neurológico caracterizado por una necesidad incontrolable de mover las piernas, especialmente por la noche.
+- Insomnia → Insomnio. Dificultad para conciliar el sueño, permanecer dormido o despertarse demasiado temprano y no poder volver a dormir.
+- Narcolepsy → Narcolepsia. Trastorno del sueño que provoca somnolencia extrema durante el día y episodios súbitos de sueño.
+- Obstructive Sleep Apnea → Apnea Obstructiva del Sueño. Trastorno en el que la respiración se interrumpe repetidamente durante el sueño debido a una obstrucción de las vías respiratorias.
+- No Disorder → Sin Trastorno. Pacientes que no presentan ningún trastorno del sueño diagnosticado.
+
 
 ## ⚙️ Herramientas y Librerías
 
