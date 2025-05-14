@@ -1,7 +1,7 @@
 
 # 💤 Dormir Mejor con Datos: Machine Learning para Detectar Trastornos del Sueño
 
-Este proyecto tiene como finalidad analizar cómo los hábitos de vida y factores de salud influyen en la calidad del sueño. Utilizando un conjunto de datos obtenido desde [Kaggle](https://www.kaggle.com/), se recopila información sobre comportamientos diarios, condiciones médicas, niveles de estrés y patrones de sueño.
+Este proyecto tiene como finalidad analizar cómo los hábitos de vida y factores de salud influyen en la calidad del sueño. Utilizando un conjunto de datos obtenido desde [Kaggle](https://www.kaggle.com/datasets/ziya07/sleep-disorder-diagnostic-dataset/data), se recopila información sobre comportamientos diarios, condiciones médicas, niveles de estrés y patrones de sueño.
 
 A través de técnicas de análisis exploratorio de datos (EDA) y algoritmos de aprendizaje automático, se busca identificar patrones significativos y construir un modelo predictivo capaz de detectar posibles trastornos del sueño y clasificar el tipo específico de trastorno.
 
